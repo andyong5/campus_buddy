@@ -3,10 +3,11 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const fileupload = require('express-fileupload')
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-var loginRouter = require('./routes/login')
+var userRouter = require('./routes/PUT/user');
+var loginRouter = require('./routes/POST/loginUser')
+var logoutRouter = require('./routes/PUT/logoutUser')
 
 var app = express();
 
@@ -16,13 +17,15 @@ app.set('view engine', 'jade');
 
 app.use(logger('dev'));
 app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
+app.use(fileupload());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
-app.user('/login', loginRouter);
+// app.use('/', indexRouter);
+app.use('/user', userRouter);
+app.use('/loginUser', loginRouter);
+app.use('/logoutUser', logoutRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
