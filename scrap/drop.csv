@@ -1,0 +1,605 @@
+id,crn,date,subj,sub_num,course,location,section,description,instructor,credit
+0,10005,"4:10 - 6:00 PM, MW",AAS,017,AAS 017,WELLMN 202,001,Women in Africa,"Adejunmobi, M",4.0
+1,10006,"4:10 - 5:00 PM, T",AAS,018,AAS 018,WELLMN 101,A01,Intro Caribbean Studies,"Ng'weno, B",4.0
+2,44236,"6:10 - 7:00 PM, T",AAS,050,AAS 050,WELLMN 105,A01,Black Images,"White, E",4.0
+3,44240,"12:10 - 2:00 PM, TR",AAS,107B,AAS 107B,WELLMN 201,001,Afr Heritage North Am,"White, E",4.0
+4,10022,"2:10 - 4:00 PM, MW",AAS,145A,AAS 145A,HOAGLD 113,001,Blk Soc & Pol Thought,"Weber, B",4.0
+5,45348,"12:10 - 2:00 PM, TR",AAS,155A,AAS 155A,REMOTE,001,Afram Dance & Culture,4.0,
+6,44241,"4:10 - 6:00 PM, TR",AAS,176,AAS 176,HOAGLD 113,001,Politics of Resources,"Mukiibi, E",4.0
+7,44242,"12:10 - 2:00 PM, MW",AAS,177,AAS 177,STORER 1342,001,Politics of Life in Afri,"Taodzera, S",4.0
+8,44389,"10:00 - 11:50 AM, MW",AAS,183A,AAS 183A,HOAGLD 113,001,"Police, Prison & Protest","Weber, B",4.0
+9,10061,"1:10 - 4:00 PM, R",AAS,204,AAS 204,HART 2215,001,Methodology,"Ng'weno, B",4.0
+10,10670,"4:10 - 5:00 PM, M",AGC,290,AGC 290,OLSON 250,001,Seminar,"Anastasio, C",1.0
+11,12471,"5:10 - 6:00 PM, T",ARE,100A,ARE 100A,WELLMN 201,A01,Intermed Microeconomics,"Shenoy, A",4.0
+12,12477,"6:10 - 7:00 PM, M",ARE,100B,ARE 100B,OLSON 167,A01,Intermed Microeconomics,"Goodrich, R",4.0
+13,12489,"9:00 - 10:20 AM, TR",ARE,106,ARE 106,KLEIBR 3,A01,Econometrics,"Smith, A",4.0
+14,12497,"1:40 - 3:00 PM, TR",ARE,107,ARE 107,HUNT 100,A01,Econometrics for Bus Dec,"Ghanem, D",4.0
+15,12501,"4:10 - 6:00 PM, MW",ARE,112,ARE 112,KLEIBR 3,001,Organization Management,"Lundblad, G",4.0
+16,12502,"12:10 - 2:00 PM, MW",ARE,113,ARE 113,WELLMN 109,001,Marketing Management,"Lundblad, G",4.0
+17,12503,"1:40 - 3:00 PM, TR",ARE,115A,ARE 115A,KLEIBR 3,A01,Economic Development,"Lybbert, T",4.0
+18,12513,"3:10 - 4:30 PM, TR",ARE,121,ARE 121,VEIMYR 212,A01,Econ of Ag Sustain,"Merel, P",4.0
+19,12515,"10:00 - 11:50 AM, TR",ARE,132,ARE 132,WELLMN 234,001,Coop Business Enterprise,"Kiesel, K",4.0
+20,12516,"1:40 - 3:00 PM, TR",ARE,136,ARE 136,GROVE 1309,A01,Managerial Marketing,"Kiesel, K",4.0
+21,12519,"6:10 - 8:00 PM, TR",ARE,145,ARE 145,STORER 1322,001,Farm & Rural Res Apprais,"Maus, J",4.0
+22,12520,"5:10 - 6:00 PM, T",ARE,146,ARE 146,HOAGLD 108,A01,Business/Gov't Reg/Soc,"Novan, K",4.0
+23,12525,"5:10 - 6:00 PM, M",ARE,155,ARE 155,WELLMN 205,A01,Oper Res & Mgmt Sci,"Constantine, J",4.0
+24,12531,"12:10 - 1:30 PM, TR",ARE,171,ARE 171,KLEIBR 3,A01,Principles of Finance,"Hilscher, J",4.0
+25,12537,TBA,ARE,172,ARE 172,REMASY,A01,Financial Mgmt of Firm,"Goodrich, R",4.0
+26,12719,"10:30 - 11:50 AM, TR",ARE,200B,ARE 200B,CRUESS 107,001,Micro Theory,"Carvajal Escobar, A",4.0
+27,12720,"10:00 - 11:50 AM, MW",ARE,202B,ARE 202B,PHYSIC 148,001,Applied Microeconomics,"Merel, P",4.0
+28,12721,"10:00 - 11:50 AM, MW",ARE,204B,ARE 204B,STORER 1344,001,Micro Analysis II,"Sexton, R",4.0
+29,12722,"2:10 - 3:30 PM, TR",ARE,215B,ARE 215B,OLSON 6,001,Open Macro Development,"Shenoy, A",4.0
+30,12723,"3:40 - 4:00 PM, MW",ARE,232,ARE 232,WELLMN 5,001,Commodity Markets,"Goodhue,Sexton",4.0
+31,12724,"11:00 - 11:50 AM, F",ARE,240A,ARE 240A,BAINER 1130,001,Econometric Methods,"Smith, A",4.0
+32,12725,"9:00 - 9:50 AM, M",ARE,240C,ARE 240C,SOCSCI 2102,001,Time Series Econometrics,"Gafarov, B",4.0
+33,12726,"2:10 - 3:30 PM, MW",ARE,256B,ARE 256B,STORER 1342,001,Applied Econometrics II,"Gafarov, B",4.0
+34,12727,"2:10 - 4:00 PM, TR",ARE,275,ARE 275,WELLMN 127,001,Resource & Environ Econ,"Agerton, M",4.0
+35,12728,"4:10 - 6:00 PM, TR",ARE,277,ARE 277,WICKSN 2124,001,Natural Resource Econ,"Sanchirico, J",4.0
+36,12729,"12:10 - 1:30 PM, W",ARE,293,ARE 293,HART 1106,001,Anlys Cal Ag & Resources,"Goodhue, R",3.0
+37,10651,"3:10 - 5:00 PM, M",AED,100,AED 100,WELLMN 115,001,Ag & Env Educ,"Martindale, M",3.0
+38,10666,TBA,AED,300,AED 300,TBA,001,Tchng Field Experience,"Van Alfen, N",2.0
+39,10853,"6:10 - 7:00 PM, T",AMS,001E,AMS 001E,WELLMN 123,A01,Nature & Culture in Amer,"Bayles, M",4.0
+40,10864,"4:10 - 5:00 PM, T",AMS,010,AMS 010,STORER 1344,A01,Intro American Studies,"Wang, G",4.0
+41,10872,"10:30 - 11:50 AM, TR",AMS,059,AMS 059,WELLMN 2,A01,Music & Amer Culture,"Decristo, J",4.0
+42,10879,"9:00 - 9:50 AM, M",AMS,095,AMS 095,HOAGLD 113,A01,Careers/Identity Amr Cul,"Meyer,Wang",2.0
+43,10907,"3:10 - 4:30 PM, TR",AMS,101H,AMS 101H,HUNT 110,001,Special Topics,"Decristo, J",4.0
+44,44426,TBA,AMS,130,AMS 130,TBA,001,Amer Pop Culture,"Bayles, M",4.0
+45,10909,"11:00 - 11:50 AM, TR",AMS,152,AMS 152,VEIMYR 212,001,Children In America,"Smoodin, E",4.0
+46,10910,"9:00 - 11:50 AM, M",AMS,160,AMS 160,REMOTE,001,Undergraduate Seminar,"Arbona-Homar, J",4.0
+47,10211,"10:30 - 11:50 AM, TR",ABI,050B,ABI 050B,BAINER 1060,001,Animal Biology,"Nansen, C",3.0
+48,10230,"8:00 - 8:50 AM, MTWR",ABI,102,ABI 102,CALIFO 1100,001,Animal Biochem & Metabol,"Hackmann, T",5.0
+49,10231,"6:10 - 7:00 PM, W",ABI,103,ABI 103,CALIFO 1100,001,Animal Biochem & Metabol,"Hess, M",5.0
+50,10232,"12:10 - 1:00 PM, W",ABI,187,ABI 187,WELLMN 115,001,Animal Biology Seminar,"Kimsey, R",2.0
+51,11162,"1:10 - 2:00 PM, MW",ANG,111,ANG 111,MEYER 1330,001,Molecular Biol Lab Tech,"Maga, E",4.0
+52,11224,"9:00 - 9:50 AM, MWF",ANS,015,ANS 015,STORER 1322,001,Intro Horse Husbandry,"Mienaltowski, M",3.0
+53,11225,"2:10 - 5:00 PM, R",ANS,022B,ANS 022B,AHHOG,001,Animal Evaluation,"Pettey, L",2.0
+54,11226,"3:10 - 6:00 PM, T",ANS,041L,ANS 041L,ASTF,A01,Domestic Animal Prod Lab,"Pettey, L",2.0
+55,11230,"11:00 - 11:50 AM, M",ANS,042,ANS 042,MEYER 1131,A01,Companion Animals,"Oberbauer, A",4.0
+56,44921,"9:00 - 11:50 AM, M",ANS,049C,ANS 049C,DAIRY,A01,Animal Prac/Dairy,"Todgham, A",2.0
+57,44942,"11:00 - 11:50 AM, T",ANS,049E,ANS 049E,MEYER 1131,A01,Animal Prac/Horses,"Todgham, A",2.0
+58,44945,"2:10 - 3:00 PM, W",ANS,049F,ANS 049F,MEYER 1338,A01,Animal Prac/Lab Animals,"Todgham, A",2.0
+59,44947,"9:00 - 11:50 AM, T",ANS,049G,ANS 049G,COLE C,A01,Animal Prac/Meats,"Todgham, A",2.0
+60,44952,"8:00 - 10:50 AM, M",ANS,049I,ANS 049I,SHEEPB,A01,Animal Prac/Sheep,"Todgham, A",2.0
+61,44956,"12:10 - 1:00 PM, R",ANS,049J,ANS 049J,AHHOG,A01,Animal Prac/Swine,"Todgham, A",2.0
+62,11422,"1:10 - 2:00 PM, MWF",ANS,108,ANS 108,YOUNG 184,001,Equine Behavr & Welfare,"McLean, A",3.0
+63,11423,"9:00 - 9:50 AM, MWF",ANS,120,ANS 120,WELLMN 1,001,Meat Science,"Yang, X",3.0
+64,45084,"1:10 - 2:00 PM, W",ANS,120L,ANS 120L,COLE C 162B,001,Meat Science Lab,"Yang, X",2.0
+65,11424,"9:00 - 10:50 AM, T",ANS,124,ANS 124,MEYER 1330,A01,Lactation,"Hovey, R",4.0
+66,45085,"12:10 - 1:30 PM, TR",ANS,126,ANS 126,HOAGLD 113,001,Equine Nutrition,"McLean, A",3.0
+67,11429,"2:10 - 3:00 PM, T",ANS,128,ANS 128,MEYER 1131,001,Agr Applications of LP,The Staff,4.0
+68,11430,"10:00 - 10:50 AM, W",ANS,134,ANS 134,MEYER 1330,001,Animal Nutrition Lab,"Liu, Y",3.0
+69,45460,"12:10 - 1:30 PM, TR",ANS,142,ANS 142,OLSON 250,A01,Companion Animal Care,"Pettey, E",4.0
+70,45100,"1:10 - 2:00 PM, W",ANS,150,ANS 150,OLSON 223,A01,Animal Health & Disease,"Moody, C",4.0
+71,45103,"10:00 - 12:50 PM, T",ANS,160A,ANS 160A,AHHOG,001,Stress & Reproduction I,"Berger,Horback",2.0
+72,11759,"12:10 - 1:00 PM, M",ANS,291,ANS 291,HART 1128,001,Cur Research Animal Sci,"Denicol, A",1.0
+73,11925,"9:00 - 10:20 AM, TR",ANT,001,ANT 001,MONDAV 114,A01,Human Evolutionary Bio,"Weaver, T",4.0
+74,11936,"8:00 - 9:20 AM, MW",ANT,002,ANT 002,HARING 2016,001,Cultural Anthropology,"Malachowski, J",5.0
+75,11966,"9:00 - 10:20 AM, TR",ANT,003,ANT 003,OLSON 206,A01,Intro to Archaeology,"Darwent, J",4.0
+76,44992,"12:10 - 1:30 PM, MW",ANT,020,ANT 020,OLSON 250,001,Comparative Cultures,"Sawyer, S",4.0
+77,44747,"1:10 - 2:00 PM, MW",ANT,026,ANT 026,TLC 1020,001,Mummies,"Eerkens, J",2.0
+78,44993,"10:00 - 11:20 AM, MW",ANT,104N,ANT 104N,HARING 2016,001,Cultural Politics Enviro,"Sawyer, S",4.0
+79,12038,"1:40 - 2:00 PM, TR",ANT,125B,ANT 125B,GIEDT 1007,001,Postmodernism & Culture,"Mojaddedi, F",4.0
+80,45022,"10:00 - 11:20 AM, MW",ANT,126A,ANT 126A,WALKER 1320,001,Anthro of Development,"Zhang, L",4.0
+81,44753,"4:10 - 5:00 PM, MW",ANT,128A,ANT 128A,OLSON 223,001,Kinship & Social Org,"Rauch, K",4.0
+82,45226,"2:10 - 3:30 PM, MW",ANT,130A,ANT 130A,WALKER 1320,001,Globalization,"Robins, A",4.0
+83,44997,"12:10 - 1:30 PM, TR",ANT,135,ANT 135,ART 204,001,Media Anthropology,"Elhaik, T",4.0
+84,45023,"12:10 - 2:00 PM, MW",ANT,148A,ANT 148A,OLSON 146,001,Cult Pol Econ Cont China,"Zhang, L",4.0
+85,12054,"3:10 - 4:00 PM, R",ANT,153,ANT 153,WELLMN 129,A01,Hum Genetics: Mut & Mig,"Henn, B",5.0
+86,44750,"2:10 - 5:00 PM, R",ANT,156B,ANT 156B,YOUNG 210,001,Advanced Human Osteology,"Weaver, T",4.0
+87,12058,"9:00 - 10:20 AM, TR",ANT,185,ANT 185,YOUNG 302,001,Lithic Analysis,"Zwyns, N",4.0
+88,12205,"9:00 - 11:50 AM, F",ANT,210,ANT 210,REMOTE,001,Aspect/Cult Struct,"Giordano, C",4.0
+89,45201,"10:30 - 1:30 PM, R",ANT,216,ANT 216,YOUNG 224,001,Probs-Archaeol Meth,"Steele, T",4.0
+90,12207,"4:10 - 5:00 PM, M",ANT,270,ANT 270,YOUNG 210,001,Anthro Colloq Sem,"Zwyns, N",1.0
+91,44836,"12:10 - 1:00 PM, M",ABT,016,ABT 016,WCAE,A01,Metal Prop & Fabrication,"Frank, D",2.0
+92,10337,"1:10 - 4:00 PM, R",ABT,052,ABT 052,WCAE,A01,Field Equipment Welding,"Frank, D",2.0
+93,10397,"12:10 - 1:00 PM, TR",ABT,101,ABT 101,WCAE,A01,Engine Technology,"Frank, D",3.0
+94,10399,"9:00 - 11:50 AM, R",ABT,161,ABT 161,BAINER 1326,001,Water Qual Aquaculture,"Hung, T",3.0
+95,44775,"1:10 - 4:00 PM, TR",ABT,182,ABT 182,HUNT 253,A01,Environ GIS Application,"Moghimi, A",4.0
+96,12373,"11:00 - 11:50 AM, MTWR",ARB,022,ARB 022,OLSON 217,002,Intermediate Arabic 22,"Hassouna, S",4.0
+97,12383,"1:40 - 3:00 PM, TR",ARB,122,ARB 122,OLSON 141,001,Advanced Arabic,"Radwan, N",4.0
+98,10710,"9:00 - 9:50 AM, M",AHI,001B,AHI 001B,EVERSN 157,A01,Mediev & Renaiss Art,"Riordan, L",4.0
+99,44427,"10:00 - 11:50 AM, MW",AHI,163B,AHI 163B,ART 217,001,Chinese Painting,"Burnett, K",4.0
+100,45333,"10:30 - 11:50 AM, TR",AHI,180,AHI 180,ART 217,001,Arts of the Rococo,"Yonan, M",4.0
+101,44432,"1:40 - 3:00 PM, TR",AHI,188B,AHI 188B,ART 217,001,U S Architecture,"Cogdell, C",4.0
+102,10748,"12:10 - 3:00 PM, W",AHI,190H,AHI 190H,EVERSN 157,001,Seminar Mod-Contemp Art,"Grigor, T",4.0
+103,10749,"3:10 - 6:00 PM, R",AHI,190I,AHI 190I,EVERSN 157,001,Seminar 17th-18th C Art,"Yonan, M",4.0
+104,10798,"2:10 - 5:00 PM, F",AHI,200C,AHI 200C,EVERSN 157,001,Thesis Writing,"Strazdes, D",1.0
+105,12864,"9:00 - 11:50 AM, TR",ART,005,ART 005,ART 112,001,Beginning Sculpture,"Cohen, N",5.0
+106,12866,"1:10 - 4:00 PM, TR",ART,007,ART 007,ART 329,001,Beginning Painting,"White, D",5.0
+107,44255,"9:00 - 11:50 AM, TR",ART,008,ART 008,TB 9,001,Beg Ceramic Sculpture,"Higgins O'Connor, M",5.0
+108,12868,"9:30 - 12:20 PM, TR",ART,009,ART 009,ART 55,001,Beginning Photography,"Hyde, T",5.0
+109,12870,"9:00 - 11:50 AM, TR",ART,011,ART 011,ART 309,001,Beginning Printmaking,"Mcdougal,The Staff",5.0
+110,44264,"5:10 - 8:00 PM, MW",ART,012,ART 012,REMOTE,001,Beginning Video,"Seraj, A",5.0
+111,44256,"1:10 - 4:00 PM, TR",ART,101A,ART 101A,ART 331,001,Intermediate Painting,"Vinokurov, B",5.0
+112,44261,"1:10 - 4:00 PM, MW",ART,101C,ART 101C,ART 229,001,Int Painting Watercolor,"Ahmadi, S",5.0
+113,44262,"1:10 - 4:00 PM, TR",ART,105A,ART 105A,ART 231,001,AdvDrwing:StudioProjects,"Pardee, W",5.0
+114,44263,"9:00 - 11:50 AM, MW",ART,110A,ART 110A,ART 55,001,IntermedPhoto:B&WAnalog,"Nickel, C",4.0
+115,12902,"1:10 - 4:00 PM, TR",ART,110B,ART 110B,ART 55,001,IntmedPhoto:Digital,"Hyde, T",4.0
+116,45218,"5:10 - 8:00 PM, TR",ART,114A,ART 114A,ART 55,001,IntermedVideo: Animation,"Martin, D",4.0
+117,45530,"1:10 - 4:00 PM, TR",ART,125E,ART 125E,ART 309,001,Post-Digital Print Media,5.0,
+118,44664,"1:10 - 4:00 PM, TR",ART,142C,ART 142C,TB 9,001,IntCerSculp:PaintSurface,"Higgins O'Connor, M",5.0
+119,12908,"1:10 - 4:00 PM, TR",ART,151,ART 151,ART 124,001,Intermediate Sculpture,"Hill, R",5.0
+120,12927,TBA,ART,195,ART 195,TBA,001,Artist Lecture Series,"Ahmadi, S",1.0
+121,12962,"5:10 - 8:00 PM, T",ART,225,ART 225,ART 125,001,Professional Practice,"Hill, R",4.0
+122,44257,"5:10 - 8:00 PM, W",ART,227,ART 227,ART 125,001,Interdisciplinary Studio,"Werfel, G",4.0
+123,12963,TBA,ART,290B,ART 290B,TBA,001,Crit Disc Studio Pract,"Martin, D",4.0
+124,12964,TBA,ART,290E,ART 290E,TBA,001,Critical Disc on Media,"Ahmadi, S",4.0
+125,45261,"2:10 - 4:00 PM, TR",ASA,189B,ASA 189B,HUTCH 102,001,Topics Asian Am Culture,"Jerng, M",4.0
+126,45176,"2:10 - 3:30 PM, TR",AST,010S,AST 010S,SOCSCI 1100,001,Astro of Solar System,"Valenti, S",3.0
+127,13285,"10:00 - 10:50 AM, MWF",ATM,121A,ATM 121A,WELLMN 129,001,Atmos Dynamics,"Ullrich, P",4.0
+128,13287,"12:10 - 1:00 PM, M",ATM,133,ATM 133,OLSON 106,001,Biometeorology,"Monier,Paw U",4.0
+129,44665,"9:00 - 10:50 AM, TR",ATM,221,ATM 221,OLSON 163,001,Adv Atmos Dynamics,"Nathan, T",3.0
+130,14731,"9:00 - 9:50 AM, MWF",BCB,212,BCB 212,OLSON 147,001,Cell Biology,"Albeck, J",3.0
+131,14732,"10:00 - 10:50 AM, MWF",BCB,213,BCB 213,OLSON 141,001,Developmental Biology,"Draper,Lott",3.0
+132,14733,"1:00 - 2:30 PM, W",BCB,220L,BCB 220L,BRIGGS 148,001,Adv Biochem Lab Rotation,"Baldwin,Juliano",5.0
+133,45247,TBA,BCB,256,BCB 256,TBA,001,Cell & Molec Biol Cancer,"Ghosh,Mudryj",3.0
+134,15383,"8:00 - 9:50 AM, T",BIS,002A,BIS 002A,SCILAB 2067,A01,Introduction to Biology,"Igo, M",5.0
+135,15424,"8:00 - 10:50 AM, T",BIS,002B,BIS 002B,SCILAB 1080,A01,Introduction to Biology,"Furrow,Keen",5.0
+136,15474,"8:30 - 11:20 AM, T",BIS,002C,BIS 002C,SCILAB 3079,A01,Introduction to Biology,"Ledford,Rodrigues,Ward",5.0
+137,15518,"9:00 - 10:20 AM, TR",BIS,002D,BIS 002D,HART 1150,001,Intro to Cell Biology,"Diaz, E",3.0
+138,15530,"12:10 - 2:00 PM, TR",BIS,015L,BIS 015L,SCC 2102,001,Data Science for Bio,"Ledford, J",2.0
+139,15531,"2:10 - 4:00 PM, F",BIS,020Q,BIS 020Q,SCILAB 2020,001,Modeling in Biology,"Collins, S",2.0
+140,15532,"12:10 - 2:00 PM, R",BIS,027A,BIS 027A,HUTCH 93,001,Linear Alg Appl to Bio,"Arsuaga, F",4.0
+141,15552,"10:00 - 10:50 AM, F",BIS,101D,BIS 101D,PHYSIC 148,001,Genes and Gene Exp Disc,"Ellefson Crowder, M",1.0
+142,15578,"9:00 - 10:20 AM, TR",BIS,104,BIS 104,CALIFO 1100,001,Cell Biology,"Starr, D",3.0
+143,15580,"10:00 - 10:50 AM, MWF",BIS,105,BIS 105,GIEDT 1002,001,Biomolecule & Metabolism,"Hilt, K",3.0
+144,15938,TBA,BPT,201,BPT 201,TBA,001,Topics in Biophotonics,"Marcu, L",1.0
+145,15789,"1:40 - 3:00 PM, TR",BPH,200A,BPH 200A,WELLMN 233,001,Current Tech Biophys,"Fomina, A",3.0
+146,15940,"4:10 - 5:30 PM, MW",BST,223,BST 223,SOCSCI 70,001,Generalized Lin Models,"Mueller, H",4.0
+147,15613,"7:10 - 8:00 PM, T",BIT,091,BIT 091,CHEM 179,001,Exploring Biotechnology,"Beckles, D",1.0
+148,15672,"1:10 - 2:30 PM, MW",BIT,161A,BIT 161A,BOWLEY 101,001,Genetics & Biotech Lab,"Beckles, D",6.0
+149,18705,"2:10 - 4:00 PM, F",DEB,263,DEB 263,WELLMN 212,001,Basic Biotechnology,"Faller,Jamison-McClung",2.0
+150,18708,"11:00 - 11:50 AM, F",DEB,294,DEB 294,LSA 1022,001,Progress Biotechnology,"Jamison-McClung,Mcdonald",1.0
+151,14719,"TBA, S",BAX,402,BAX 402,TBA,001,Org Issues in Analytics,"Dokko, G",3.0
+152,14721,"TBA, S",BAX,422,BAX 422,TBA,001,Data Design & Repres,"Boehnke, J",2.0
+153,14723,"TBA, F",BAX,442,BAX 442,TBA,001,Advanced Statistics,"Naik, P",3.0
+154,14725,"TBA, F",BAX,452,BAX 452,TBA,001,Machine Learning,"Boehnke, J",3.0
+155,14727,"TBA, S",BAX,462,BAX 462,TBA,001,Practicum Elaboration,"Carter, J",2.0
+156,14729,TBA,BAX,493A,BAX 493A,TBA,001,Cloud Computing,"Naik, P",1.0
+157,45304,"1:10 - 4:00 PM, M",CHE,004B,CHE 004B,CHEM A 3435,A01,Chem for Phy Sci & Eng,"Larsen, D",5.0
+158,16463,"9:00 - 11:50 AM, T",CHE,008B,CHE 008B,EPHSCI 3303,A01,Organic Chemistry-Brief,"Nasiri, M",4.0
+159,16602,"8:00 - 9:20 AM, TR",CHE,107A,CHE 107A,GIEDT 1002,001,Physical Chem Life Sci,"Koski, K",3.0
+160,16607,"10:00 - 10:50 AM, M",CHE,110C,CHE 110C,BAINER 1134,001,Phys Chem: Thermo & Kin,"Stuchebrukhov, A",4.0
+161,16608,"1:10 - 4:00 PM, TR",CHE,115,CHE 115,CHEM A 3475,A01,Instrumental Analysis,"Liu, G",4.0
+162,16611,"6:10 - 7:30 PM, W",CHE,118A,CHE 118A,OLSON 217,A01,Organic Chem Health Sci,"Lievens, S",4.0
+163,16632,"9:00 - 11:50 AM, T",CHE,118B,CHE 118B,EPHSCI 2354,A01,Organic Chem Health Sci,"Helix, M",4.0
+164,16667,"10:00 - 10:50 AM, MWF",CHE,124A,CHE 124A,ART 204,001,Inorg Fundamentals,"Balch, A",3.0
+165,16668,"11:00 - 11:50 AM, MWF",CHE,124B,CHE 124B,ART 204,001,Inorg Main Group,"Osterloh, F",3.0
+166,16669,"2:10 - 5:00 PM, MW",CHE,125,CHE 125,CHEM A 3475,001,Adv Methods Phys Chem,"Augustine, M",4.0
+167,16671,"11:00 - 11:50 AM, MWF",CHE,128B,CHE 128B,STORER 1322,001,Organic Chemistry,"Beal, P",3.0
+168,16672,"8:00 - 8:50 AM, TR",CHE,129A,CHE 129A,HUTCH 115,A01,Organic Chem Lab,The Staff,2.0
+169,16676,"1:10 - 4:00 PM, MW",CHE,129B,CHE 129B,EPHSCI 2342,001,Organic Chem Lab,"Nasiri, M",2.0
+170,16680,"9:00 - 10:50 AM, R",CHE,130B,CHE 130B,SCILAB 2020,001,Pharmaceutical Chemistry,3.0,
+171,17078,"10:00 - 10:50 AM, MWF",CHE,205,CHE 205,SOCSCI 80,001,Spectroscopy,"Larsen, D",3.0
+172,17079,"11:00 - 11:50 AM, MWF",CHE,210A,CHE 210A,VEIMYR 116,001,Quantum Chem: Intro,"Mccurdy, C",3.0
+173,17080,"12:10 - 1:00 PM, MWF",CHE,211B,CHE 211B,OLSON 109,001,Stat Mech,"Stuchebrukhov, A",3.0
+174,17081,"1:40 - 3:00 PM, TR",CHE,219,CHE 219,BAINER 1132,001,Organic Spectroscopy,"Franz, A",3.0
+175,17082,"8:00 - 10:20 AM, T",CHE,219L,CHE 219L,TBA,001,Organic Spectroscopy Lab,1.0,
+176,17085,"9:00 - 9:50 AM, MWF",CHE,222,CHE 222,GROVE 1283,001,Chem of Nanoparticles,"Osterloh, F",3.0
+177,45282,"11:00 - 11:50 AM, MWF",CHE,228C,CHE 228C,YOUNG 192,001,Solid State Chem,"Kauzlarich, S",3.0
+178,17086,"9:00 - 9:50 AM, MWF",CHE,231A,CHE 231A,OLSON 223,001,Organic Synthesis,"Pitts, C",4.0
+179,17087,"2:10 - 3:30 PM, MW",CHE,237,CHE 237,WELLMN 235,001,Bio-organic Chem,"Atsumi, S",3.0
+180,17088,"12:10 - 1:00 PM, MWF",CHE,241C,CHE 241C,OLSON 101,001,Mass Spectrometry,The Staff,3.0
+181,17491,"5:10 - 6:30 PM, MW",CHI,021,CHI 021,REMOTE,001,Health Issues,"Rojas, C",4.0
+182,45566,"9:00 - 10:20 AM, TR",CHI,023,CHI 023,REMOTE,A01,Qual Research Methods,"Torreiro-Casal, M",4.0
+183,17492,"4:10 - 5:00 PM, R",CHI,040,CHI 040,OLSON 207,A01,Comparative Health,"Brazil-Cruz, L",4.0
+184,45567,TBA,CHI,060,CHI 060,TBA,A01,Chicana/o Rep in Cinema,"Diaz, V",4.0
+185,17532,"12:10 - 1:30 PM, TR",CHI,114,CHI 114,REMOTE,001,Reproductive Health,"Deeb Sossa, N",4.0
+186,17534,"9:00 - 10:20 AM, TR",CHI,125S,CHI 125S,HUTCH 115,001,Latinos & Globalization,"Allen, Y",4.0
+187,17537,"6:10 - 8:00 PM, TR",CHI,140A,CHI 140A,REMOTE,001,Quantitative Methods I,"Medel-Herrero, A",4.0
+188,17543,"10:00 - 11:50 AM, MW",CHI,170,CHI 170,CRUESS 1003,001,Contemp Iss in Chi Art,"Posada, G",4.0
+189,17545,"10:30 - 11:50 AM, TR",CHI,184,CHI 184,REMOTE,001,Latino Youth Gangs,"Gonzales, M",4.0
+190,17611,"11:00 - 11:50 AM, MTWRF",CHN,002BL,CHN 002BL,HART 1116,001,Accel Written Chinese II,"Yin, H",5.0
+191,17613,"10:00 - 10:50 AM, MTWRF",CHN,004,CHN 004,WELLMN 105,001,Intermediate Chinese,"Yang, B",5.0
+192,44594,"3:40 - 4:00 PM, MW",CHN,109G,CHN 109G,WELLMN 230,001,Lit 20th-Cent Taiwan,"Yeh, M",4.0
+193,44600,"6:10 - 7:30 PM, MW",CHN,131,CHN 131,WELLMN 212,001,Trad Chn Poetry,"Yeh, M",4.0
+194,44216,"10:30 - 11:50 AM, TR",CTS,040A,CTS 040A,HARING 2016,A01,Media History 1,The Staff,4.0
+195,45257,"2:10 - 4:00 PM, MW",CTS,124E,CTS 124E,ART 230,001,Costume for Film,"Morgan, M",4.0
+196,18696,"4:40 - 6:00 PM, TR",CTS,147A,CTS 147A,OLSON 223,001,Chinese Film,"Shao, X",4.0
+197,44218,"1:40 - 3:00 PM, TR",CTS,162,CTS 162,CRUESS 1003,001,Surveillance Studies,"Brunton, F",4.0
+198,16088,"9:00 - 9:50 AM, F",CDM,041A,CDM 041A,BAINER 1128,A01,Cinema History 1895-1945,"Smoodin, E",4.0
+199,17704,"1:10 - 2:00 PM, MWF",CLA,030,CLA 030,PITZER 1010,001,Word Roots,"Brelinski, T",3.0
+200,44584,"12:10 - 1:30 PM, TR",CLA,140,CLA 140,VEIMYR 116,001,Homer & Ancient Epic,"Hexter, R",4.0
+201,45351,"4:10 - 6:00 PM, TR",CGS,138,CGS 138,WELCTR 1116,001,Consciousness&Cognition,"Pageler, B",4.0
+202,17813,TBA,CMN,003V,CMN 003V,ONLINE,A01,Interpersonal Comm Comp,"Theobald, J",4.0
+203,17826,TBA,CMN,010V,CMN 010V,TBA,A01,Intro to Communication,"Theobald, J",4.0
+204,17833,"9:00 - 10:20 AM, R",CMN,012Y,CMN 012Y,HUTCH 93,A01,Data Visualization,"Frey, S",4.0
+205,17883,"10:00 - 11:50 AM, MW",CMN,141,CMN 141,TLC 1214,001,Media Effects,"Cingel, D",4.0
+206,44886,"10:30 - 11:50 AM, TR",CMN,143,CMN 143,BAINER 1130,001,Analysis Media Messages,"Cho, J",4.0
+207,45481,"9:30 - 10:50 AM, MW",CMN,144,CMN 144,OLSON 205,001,Media Entertainment,"Taylor, L",4.0
+208,17893,TBA,CMN,170V,CMN 170V,ONLINE,A01,Digt Tech & Socil Change,"Hilbert, M",4.0
+209,17894,"12:10 - 2:00 PM, MW",CMN,174,CMN 174,OLSON 6,001,Social Media,"Shen, C",4.0
+210,44893,"3:10 - 4:30 PM, TR",CMN,178,CMN 178,BAINER 1130,001,Persuasive Technologies,"Zhang, J",4.0
+211,44894,"1:10 - 5:00 PM, M",CMN,202,CMN 202,KERR,001,Comm Theory Construction,"Cingel, D",4.0
+212,44896,"3:10 - 6:00 PM, W",CMN,214,CMN 214,HART 1106,001,Analysis Commun Networks,"Shen, C",4.0
+213,44897,"2:10 - 6:00 PM, T",CMN,252,CMN 252,KERR,001,Computer-Mediated Commun,"Pena, J",4.0
+214,44917,"8:00 - 9:50 AM, MW",CRD,156,CRD 156,YOUNG 184,A01,Community Econ Develop,The Staff,5.0
+215,18459,"4:10 - 6:00 PM, R",CRD,157,CRD 157,REMOTE,001,Politics & Community Dev,"Aranda, A",4.0
+216,44919,"8:00 - 9:50 AM, TR",CRD,164,CRD 164,YOUNG 184,A01,Community Change Orgs,"Chu, E",5.0
+217,45012,"1:10 - 5:00 PM, M",CRD,249,CRD 249,HUNT 166,001,Media Innov Commun Devel,"Drew, J",4.0
+218,18516,"10:00 - 11:50 AM, W",CRD,260,CRD 260,WELLMN 5,001,Thesis Seminar,"Crump, A",2.0
+219,45234,"10:00 - 10:50 AM, MWF",COM,053B,COM 053B,OLSON 223,001,Literature of South Asia,"Rajagopalan, M",4.0
+220,44644,"10:00 - 1:00 PM, R",CST,250,CST 250,HART 3114,001,Research Seminar,"Whithaus, C",4.0
+221,18751,"2:10 - 4:00 PM, TR",DES,014,DES 014,CRUESS 210,001,Design Drawing,"Abplanalp, S",4.0
+222,44243,"9:00 - 10:20 AM, TR",DES,040C,DES 040C,CRUESS 1002,A01,Design Aesthetics/Exper,"Housefield, J",4.0
+223,18763,"2:10 - 5:00 PM, TR",DES,051,DES 051,SCC 2103,001,CAD for Designers,"Pierre, J",4.0
+224,18764,"4:10 - 5:00 PM, MW",DES,077,DES 077,CRUESS 132,001,Intro to Fashion Design,"Zhang, A",4.0
+225,18788,"9:00 - 9:50 AM, MW",DES,116,DES 116,CRUESS 207,001,VisCom: Graphic Design,"Quarton, M",4.0
+226,18789,"5:10 - 6:00 PM, TR",DES,117,DES 117,SCC 2102,001,Interactive Media I,"Bonomo, A",4.0
+227,44251,"10:30 - 11:50 AM, TR",DES,127A,DES 127A,ARTANX 107,A01,Sustainable Design,"Ferguson, B",4.0
+228,44434,"1:10 - 2:00 PM, MW",DES,134A,DES 134A,CRUESS 210,001,Intro Interior Design,"Snyder, B",4.0
+229,18792,"9:00 - 9:50 AM, TR",DES,134B,DES 134B,CRUESS 120,001,Intro Interior Design,"Kessler, M",4.0
+230,18803,"2:10 - 4:00 PM, MW",DES,154,DES 154,CRUESS 208,001,Message Campaign Design,"Quarton, M",4.0
+231,44436,"9:00 - 11:20 AM, TR",DES,157B,DES 157B,SCC 2102,001,Interactive Media III,"Drew, G",4.0
+232,44443,"4:10 - 7:00 PM, TR",DES,165,DES 165,CRUESS 1105,001,Industrial Design,"Ferguson, B",4.0
+233,18808,"9:00 - 11:50 AM, TR",DES,167,DES 167,CRUESS 1105,001,Prototyping,"Maiorana, T",4.0
+234,18809,"9:00 - 11:50 AM, MW",DES,175,DES 175,CRUESS 132,001,Func Apparel Design,"Goncu Berk, G",4.0
+235,18810,"2:10 - 4:00 PM, MW",DES,179,DES 179,CRUESS 132,001,Signature Collection,"Goncu Berk, G",4.0
+236,44444,"1:10 - 2:00 PM, TR",DES,180A,DES 180A,CRUESS 120,001,Adv Interior Design,"Kessler, M",4.0
+237,44445,"10:00 - 11:50 AM, TR",DES,186,DES 186,CRUESS 210,001,Environmental Graphics,"Mcneil, T",4.0
+238,19132,"10:00 - 11:50 AM, MW",DRA,021A,DRA 021A,WRIGHT 120,001,Fundamentals of Act,"Leavy, M",4.0
+239,44626,"10:00 - 11:50 AM, MW",DRA,024,DRA 024,WYATT,001,Vis Aspect Dram Art,"Morgan, M",4.0
+240,19156,"12:10 - 2:00 PM, MW",DRA,040B,DRA 040B,H GYM 185,001,Intermed Modern Dance,2.0,
+241,19157,"10:00 - 11:50 AM, TR",DRA,042A,DRA 042A,H GYM 185,001,Beginning Ballet,"Carroll, S",2.0
+242,19159,"12:10 - 2:00 PM, TR",DRA,042B,DRA 042B,H GYM 185,001,Intermediate Ballet,"Carroll, S",2.0
+243,44880,TBA,DRA,255,DRA 255,TBA,001,Composition in the Arts,4.0,
+244,19650,"4:40 - 6:00 PM, TR",EAS,088,EAS 088,CHEM 179,A01,Korean Culture & Society,"Kim, K",4.0
+245,20986,"10:00 - 11:50 AM, MW",ECL,200BN,ECL 200BN,SOCSCI 90,A01,Principles of Ecology,"Holyoak, M",5.0
+246,45577,"3:10 - 5:00 PM, W",ECL,212B,ECL 212B,HART 1130,001,Environ Policy Evaluatn,"Moore, F",4.0
+247,45239,"10:30 - 11:50 AM, TR",ECL,231,ECL 231,GIEDT 1006,001,Math Method Pop Biol,"Schreiber, S",3.0
+248,20991,"3:40 - 5:00 PM, MW",ECL,243,ECL 243,STORER 2342,001,Ecological Genomics,"Ross-Ibarra,Whitehead",4.0
+249,21071,"4:10 - 5:30 PM, R",ECL,296,ECL 296,HARING 2205,001,Topics in Ecol & Evol,"Ross-Ibarra, J",1.0
+250,21151,"9:00 - 10:20 AM, TR",ECN,001A,ECN 001A,ROCK 194,A01,Princ Of Microecon,"Carrell, S",4.0
+251,44814,"9:00 - 9:50 AM, MWF",ECN,151A,ECN 151A,GIEDT 1002,A01,Econ Of Labor Mkt,"Stearns, J",4.0
+252,21411,"6:10 - 7:00 PM, T",ECN,151B,ECN 151B,WELLMN 201,A01,Human Resources,"Page, M",4.0
+253,21568,"9:00 - 10:50 AM, MW",ECN,200E,ECN 200E,YOUNG 192,001,Macro Theory,"Cloyne, J",4.0
+254,44820,"9:00 - 10:20 AM, TR",ECN,203B,ECN 203B,OLSON 109,001,Game Theory,"Schipper, B",4.0
+255,44821,"1:40 - 3:00 PM, TR",ECN,221B,ECN 221B,HART 1106,001,Industrial Organization,"Rapson, D",4.0
+256,44822,"12:00 - 12:30 PM, TR",ECN,230B,ECN 230B,SOCSCI 1131,001,Public Economics,"Singhal, M",4.0
+257,21578,"12:10 - 4:00 PM, F",ECN,260CN,ECN 260CN,CHSL 109,001,International Investment,"Russ, K",4.0
+258,21579,"10:30 - 12:30 PM, TR",ECN,260D,ECN 260D,SOCSCI 1133,001,Topics Internatl Macro,"Simonovska, I",4.0
+259,22181,TBA,EDU,081,EDU 081,TBA,001,Learning in Sci & Math,"Latimer, K",2.0
+260,22199,"2:10 - 4:00 PM, MW",EDU,110,EDU 110,OLSON 250,001,Ed Psych: Gen,"Sullivan, L",4.0
+261,22203,"10:00 - 11:50 AM, MW",EDU,119,EDU 119,TEMCL3 RM03,001,Use/Misuse Standard Test,"Welsh, M",4.0
+262,22214,TBA,EDU,181,EDU 181,TBA,001,Teaching in Sci & Math,"Guly, I",2.0
+263,22215,TBA,EDU,183,EDU 183,TBA,001,Teaching HS Math & Sci,"Pinter, S",3.0
+264,22244,"1:10 - 3:00 PM, M",EDU,204A,EDU 204A,HUTCH 93,001,Correlation & Regression,"Rose, H",4.0
+265,22258,"1:10 - 4:00 PM, W",EDU,238,EDU 238,ACADSR 2363,001,Participatory Action Res,"Ballard, H",4.0
+266,44211,"1:10 - 4:00 PM, T",EDU,244,EDU 244,ACADSR 2362,001,Seminar Lang/Lit/Culture,"Martinez, D",4.0
+267,23189,"9:00 - 10:20 AM, TR",ENG,006,ENG 006,GIEDT 1001,A01,Engineering Prob Solving,"Yankelevich, D",4.0
+268,23205,"9:00 - 10:20 AM, TR",ENG,035,ENG 035,GIEDT 1003,A01,Statics,"Rashid, M",4.0
+269,23211,"11:00 - 11:50 AM, MWF",ENG,045,ENG 045,GIEDT 1003,A01,Properties of Materials,"Gentry, S",4.0
+270,23242,"2:10 - 5:00 PM, M",ENG,104L,ENG 104L,BAINER 1223,001,Mech Of Material Lab,"Bolander, J",1.0
+271,19580,"11:30 - 11:50 AM, MW",EAE,129,EAE 129,WELLMN 6,001,Stab & Cont Aerosp Veh,"Kong, Z",4.0
+272,19586,"12:10 - 2:00 PM, MW",EAE,143A,EAE 143A,WELLMN 230,001,Space Vehicle Design,"Robinson, S",4.0
+273,19666,"2:10 - 5:00 PM, W",EBS,075,EBS 075,BAINER 1326,A01,Prop Mat Biol Sys,"Zicari, T",4.0
+274,19788,"3:10 - 5:00 PM, T",EBS,170B,EBS 170B,HOAGLD 108,001,Engr Projects: Design,"Zhang, R",2.0
+275,15172,TBA,BIM,088V,BIM 088V,TBA,001,Intro to Research,"Louie, A",2.0
+276,44679,"3:10 - 5:00 PM, TF",BIM,258,BIM 258,VEIMYR 116,001,Adv Biophotonics,"Zawadzki, R",4.0
+277,44678,"10:00 - 11:50 AM, MW",BIM,283,BIM 283,OLSON 147,001,Adv Design of Experiment,"Rocke, D",4.0
+278,15251,"3:10 - 5:00 PM, MF",BIM,284,BIM 284,OLSON 151,001,Math Methods for BME,"Duan, Y",4.0
+279,45000,"8:00 - 9:50 AM, T",ECH,001Y,ECH 001Y,EVERSN 126,A01,Design of Coffee,"Kuhl,Ristenpart",3.0
+280,20127,"9:00 - 9:50 AM, F",ECH,148B,ECH 148B,CHEM 179,001,Chemical Kinetics,"Shah, P",4.0
+281,20128,"2:10 - 3:00 PM, F",ECH,152B,ECH 152B,GIEDT 1003,001,ECH Thermodynamics,"Kulkarni, A",4.0
+282,20144,"11:00 - 12:50 PM, MW",ECH,158B,ECH 158B,TLC 1010,001,Separations & Unit Ops,"Palazoglu, A",4.0
+283,20146,"9:00 - 10:20 AM, TR",ECH,161B,ECH 161B,SOCSCI 80,001,Bioseparations,"White, J",4.0
+284,20147,"1:10 - 2:00 PM, MWF",ECH,161C,ECH 161C,BAINER 1060,001,Biotech Facility Design,"Mcdonald,Nandi",4.0
+285,20231,"10:00 - 11:50 AM, TR",ECH,253C,ECH 253C,TBA,001,Advanced Mass Transfer,"El Farra, N",4.0
+286,20233,"2:10 - 3:00 PM, MWF",ECH,267,ECH 267,BAINER 1134,001,Adv Proc Control,"Ellis, M",3.0
+287,45185,"2:10 - 4:00 PM, MW",ECI,140B,ECI 140B,RESSLR 55,001,Chem Princip for Env Eng,"Young, T",4.0
+288,20516,"12:10 - 2:00 PM, MW",ECI,140C,ECI 140C,HOAGLD 113,001,Bio Princip Envir Engi,"Hammond, C",4.0
+289,44690,"4:10 - 7:00 PM, T",ECI,141L,ECI 141L,BAINER 1205,001,Hydraulics Lab,"Bombardelli, F",1.0
+290,20523,"8:00 - 10:50 AM, T",ECI,171L,ECI 171L,BAINER 1223,001,Soil Mechanics Lab,"Ziotopoulou, A",1.0
+291,20638,"3:10 - 6:00 PM, F",ECI,193A,ECI 193A,GHAUSI 1007,A01,Civil/Env Senior Design,"Bronner,The Staff",4.0
+292,20747,"4:10 - 6:00 PM, MW",ECI,212A,ECI 212A,HART 1116,001,Finite Element Proc,"Sukumar, N",4.0
+293,44698,"12:10 - 3:00 PM, W",ECI,235,ECI 235,BAINER 1205,001,Cement Composites,"Miller, S",4.0
+294,44733,"8:00 - 9:50 AM, TR",ECI,242,ECI 242,GHAUSI 1007,001,Air Quality,The Staff,4.0
+295,20752,"10:00 - 11:50 AM, MW",ECI,243B,ECI 243B,GHAUSI 1007,001,Water & Waste Treatment,"Loge, F",4.0
+296,44699,"12:10 - 2:00 PM, MW",ECI,244A,ECI 244A,TLC 1218,001,Life Cycle Assessment,"Kendall, A",4.0
+297,20754,"3:40 - 4:00 PM, TR",ECI,245A,ECI 245A,WELLMN 26,001,Appl Env Chem: Inorganic,"Pena, J",4.0
+298,20756,"4:10 - 6:00 PM, MW",ECI,251,ECI 251,OLSON 217,001,Transp Demand Analysis,"Jaller Martelo, M",4.0
+299,45723,"6:10 - 8:00 PM, MW",ECI,277A,ECI 277A,TBA,001,Comp River Mech I,"Younis, B",4.0
+300,20761,"9:00 - 10:50 AM, MW",ECI,280A,ECI 280A,ART 210,001,Finite Elem Elast Plast,"Jeremic, B",4.0
+301,44695,"1:10 - 4:00 PM, F",ECI,281B,ECI 281B,BAINER,001,Advanced Soil Mechanics,"Dejong, T",5.0
+302,20762,"4:10 - 6:00 PM, TR",ECI,286,ECI 286,SOCSCI 70,001,Adv Foundation Design,"Martinez Vela, A",4.0
+303,44701,"3:10 - 4:00 PM, T",ECI,292B,ECI 292B,OLSON 117,001,Geotech Prof Practice 2,"Boulanger, R",1.0
+304,21714,"12:10 - 1:00 PM, T",ECS,032A,ECS 032A,WELLMN 234,A01,Intro to Programming,"Stevens, K",4.0
+305,21722,"10:00 - 10:50 AM, M",ECS,032B,ECS 032B,OLSON 217,A01,Intro to Data Structures,"Eiselt, K",4.0
+306,21729,"5:10 - 6:00 PM, M",ECS,036A,ECS 036A,WELLMN 2,A01,Programming,"Butner, M",4.0
+307,21733,"12:10 - 1:00 PM, MWF",ECS,036B,ECS 036B,HARING 2205,A01,Object-Oriented Program,"Gygi, F",4.0
+308,21737,"12:10 - 1:00 PM, MWF",ECS,036C,ECS 036C,KLEIBR 3,A01,Data Structures,"Kaloti, A",4.0
+309,21854,"9:00 - 10:20 AM, TR",ECS,122A,ECS 122A,HUNT 100,A01,Algorithm Design & Anyls,"Jiang, J",4.0
+310,21858,"12:10 - 1:00 PM, M",ECS,122B,ECS 122B,OLSON 158,A01,Algorithm Design & Anlys,"Frid, Y",4.0
+311,21868,"8:00 - 8:50 AM, W",ECS,152A,ECS 152A,HART 1130,A01,Computer Networks,"Cheung, S",4.0
+312,21873,"1:10 - 2:00 PM, MWF",ECS,154A,ECS 154A,HUNT 100,A01,Computer Architecture,"Butner, M",4.0
+313,21877,"10:00 - 10:50 AM, MWF",ECS,154B,ECS 154B,EVERSN 176,001,Computer Architecture,"Lowe-Power, J",4.0
+314,21881,"2:10 - 3:00 PM, T",ECS,165A,ECS 165A,HOAGLD 113,A01,Database Systems,"Sadoghi Hamedani, M",4.0
+315,21885,"1:10 - 2:00 PM, M",ECS,188,ECS 188,KERR 293,001,Ethics in an Age of Tech,"Matloff, N",4.0
+316,22010,"10:00 - 10:50 AM, MWF",ECS,201A,ECS 201A,EVERSN 176,001,Computer Architecture,"Lowe-Power, J",4.0
+317,22011,TBA,ECS,235B,ECS 235B,TBA,001,Computer & Info Security,"Bishop, M",4.0
+318,22442,"8:00 - 8:50 AM, F",EEC,105B,EEC 105B,KEMPER 1065,001,EE-Emerge 2,"Knoesen, A",2.0
+319,45072,"6:10 - 7:30 PM, TR",EEC,132B,EEC 132B,KEMPER,001,RF & Microwaves,"Branner, G",5.0
+320,22455,"9:00 - 9:50 AM, F",EEC,136B,EEC 136B,BAINER 1060,A01,Electronic Design Proj,"Amirtharajah, R",3.0
+321,22460,"3:10 - 4:50 PM, MW",EEC,157A,EEC 157A,REMOTE,001,Control Systems,"Gundes, A",4.0
+322,22466,"8:00 - 8:50 AM, W",EEC,173A,EEC 173A,HART 1130,A01,Computer Networks,"Cheung, S",4.0
+323,45555,TBA,EEC,174BY,EEC 174BY,ONLINE,001,Applied ML Projects,"Chuah, C",3.0
+324,45063,"4:10 - 6:00 PM, TR",EEC,181A,EEC 181A,KEMPER,A01,Dig Sys Design Project,"Baas, B",3.0
+325,22606,"11:30 - 11:50 AM, M",EEC,193B,EEC 193B,KEMPER 2110,010,Senior Design Project,"Chuah, C",3.0
+326,45064,"10:00 - 12:50 PM, F",EEC,195A,EEC 195A,KEMPER,A01,Autonomous Car Project,The Staff,3.0
+327,45067,"8:00 - 9:20 AM, TR",EEC,231B,EEC 231B,REMOTE,001,Plasma Physics,"Luhmann, N",4.0
+328,45068,"10:30 - 11:50 AM, TR",EEC,237B,EEC 237B,BAINER 1070,001,Laser Physics II,"Kolner, B",4.0
+329,45069,"1:10 - 2:30 PM, MW",EEC,239B,EEC 239B,TBA,001,Optical Data Sys & Net,"Yoo, S",4.0
+330,45070,"3:10 - 5:00 PM, TR",EEC,241,EEC 241,TBA,001,Molecular Electronics,"Hihath, J",4.0
+331,22704,"1:10 - 2:30 PM, TR",EEC,248,EEC 248,KERR 293,001,PV & Solar Cells,"Hunt, C",3.0
+332,22709,"9:00 - 10:20 AM, TR",EEC,281,EEC 281,REMOTE,001,VLSI Digital Signal Proc,"Baas, B",4.0
+333,23009,"1:10 - 4:00 PM, W",EMS,162L,EMS 162L,KEMPER 163,A01,Struct Charac Matls Lab,"Mccormack, S",3.0
+334,23015,"5:10 - 6:00 PM, W",EMS,188A,EMS 188A,REMOTE,001,Materials Design Project,"Risbud, S",4.0
+335,45244,"1:10 - 2:30 PM, TR",EMS,246,EMS 246,KERR 293,001,PV & Solar Cells,"Hunt, C",3.0
+336,23071,"2:10 - 4:00 PM, TR",EMS,268,EMS 268,BAINER 1062,001,Adv Mat Characterization,"Castro, R",4.0
+337,23072,"10:00 - 11:50 AM, WF",EMS,272,EMS 272,BAINER 1070,001,Adv Func Prop of Matls,"Takamura, Y",4.0
+338,23073,"9:00 - 10:20 AM, TR",EMS,274,EMS 274,OLSON 141,001,Adv Mech Prop Mats,"Mason, J",4.0
+339,22876,"2:10 - 3:30 PM, T",EME,109,EME 109,BAWIND 1402,A01,Experimental Methods,"Vang, C",4.0
+340,22886,"9:30 - 9:50 AM, TR",EME,150B,EME 150B,HARING 1227,001,Mechanical Design,"Akbari, A",4.0
+341,22893,"3:40 - 5:00 PM, TR",EME,185A,EME 185A,TBA,A01,Mech Syst Design Project,"Schofield, J",4.0
+342,44222,"10:00 - 11:20 AM, MW",MAE,207,MAE 207,BAINER 1062,001,Eng Exp & Uncertainty,"Shaw, B",4.0
+343,30409,"10:00 - 11:20 AM, TR",MAE,218,MAE 218,GIEDT 1007,001,Advanced Energy Systems,"Kissock, J",4.0
+344,44223,"12:10 - 2:00 PM, MW",MAE,226,MAE 226,BAINER 1062,001,Acoustic & Noise Control,"Sarigul-Klijn, N",4.0
+345,23297,"2:10 - 3:00 PM, MW",ENL,003A,ENL 003A,WELLMN 107,001,Writers' Workshop,"Cheramie, H",2.0
+346,23303,"8:00 - 9:50 AM, MW",ENL,005F,ENL 005F,WELLMN 129,001,Writing: Fiction,"Peterson, K",4.0
+347,23310,"5:10 - 7:00 PM, MW",ENL,005NF,ENL 005NF,OLSON 141,001,Writing: Non-Fiction,"Peterson, K",4.0
+348,23312,"10:00 - 11:50 AM, MW",ENL,005P,ENL 005P,WELLMN 235,001,Writing: Poetry,"Peterson, K",4.0
+349,23315,"6:10 - 7:00 PM, R",ENL,010A,ENL 010A,WELLMN 101,A01,Lit in English I,"Dolan, F",4.0
+350,23319,"11:00 - 11:50 AM, F",ENL,010B,ENL 010B,OLSON 151,A01,Lit in English II,"Ziser, M",4.0
+351,23445,"6:10 - 7:00 PM, W",ENL,113A,ENL 113A,OLSON 244,A01,Chaucer: Troilus & Poems,"Chaganti, S",4.0
+352,23457,"4:40 - 6:00 PM, TR",ENL,137,ENL 137,OLSON 118,001,British Lit 1900-1945,"Dobbins, G",4.0
+353,44409,"1:10 - 2:00 PM, MWF",ENL,149,ENL 149,HART 1120,001,Topics in Literature,"Frederickson, K",4.0
+354,44410,"6:10 - 7:00 PM, R",ENL,150A,ENL 150A,WELLMN 107,A01,British Drama to 1800,"Bloom, G",4.0
+355,44412,"10:30 - 11:50 AM, TR",ENL,155C,ENL 155C,HUTCH 115,001,20th Cen British Novel,"Solomon, J",4.0
+356,44414,"6:10 - 7:00 PM, M",ENL,185B,ENL 185B,HART 1116,A01,Lit by Women 1800-1900,"Miller, E",4.0
+357,23474,"3:10 - 6:00 PM, T",ENL,187A,ENL 187A,VRHIES 248,001,Literature & Media,"Boluk, S",4.0
+358,23675,"12:10 - 3:00 PM, R",ENL,287,ENL 287,VRHIES 120,001,Literature & Media,"Boluk, S",4.0
+359,23676,"1:10 - 3:00 PM, M",ENL,288,ENL 288,VRHIES 120,001,Prospectus Workshop,"Ziser, M",4.0
+360,24138,TBA,ENT,295,ENT 295,TBA,001,Agricultural Ent & Bees,The Staff,2.0
+361,24139,"4:10 - 5:00 PM, W",ENT,297N,ENT 297N,BRIGGS 122,001,Seminar in Entomology,"Siddique, S",1.0
+362,45365,"12:10 - 3:00 PM, W",EVH,200,EVH 200,VRHIES 120,001,Environmental Humanities,"Miller,Warren",4.0
+363,24430,"10:30 - 11:50 AM, TR",ESP,168B,ESP 168B,YOUNG 184,A01,Environ Policy Eval,"Sanchirico, J",4.0
+364,24446,TBA,ESP,191A,ESP 191A,TBA,001,Sustainability Workshop,"Tomich, T",3.0
+365,24570,"1:10 - 2:00 PM, MWF",ETX,102A,ETX 102A,WELLMN 226,A01,Env Fate of Toxicants,"Nguyen, T",4.0
+366,24572,"10:00 - 10:50 AM, W",ETX,103A,ETX 103A,HART 1128,A01,Bio Effects of Toxicants,"Nicklisch, S",4.0
+367,24773,"4:10 - 5:30 PM, MW",ETX,278,ETX 278,OLSON 147,001,Molecular Techniques,"Parker, G",3.0
+368,24221,TBA,EPI,206,EPI 206,TBA,001,Epi Study Design,"Atwill,Conlon",4.0
+369,45210,"1:10 - 4:00 PM, MW",EVE,112L,EVE 112L,SCILAB 1079,001,Biol Invertebrates Lab,"Sanford, E",2.0
+370,25452,TBA,EXB,106L,EXB 106L,TBA,001,Human Gross Anatomy Lab,"Gross, D",3.0
+371,44219,"10:00 - 12:50 PM, R",FMS,127,FMS 127,CRUESS 1003,001,Film Theory,"Fallon, K",4.0
+372,26062,"6:10 - 7:00 PM, W",FST,100C,FST 100C,WELLMN 235,001,Food Physical Chemistry,"Dungan, S",4.0
+373,26063,"9:00 - 11:50 AM, T",FST,101B,FST 101B,RMISEN,A01,Food Properties Lab,"Slupsky, C",2.0
+374,26193,"10:30 - 11:50 AM, TR",FST,228,FST 228,SOCSCI 80,001,Sustainable Food Systems,"Simmons,Spang",3.0
+375,25611,"6:10 - 9:00 PM, M",FOR,201B,FOR 201B,OFFCAM,001,Forensic Science-B,The Staff,3.0
+376,25612,"6:10 - 9:00 PM, W",FOR,208,FOR 208,OFFCAM,001,Forensic Toxicology,"Triebold, C",3.0
+377,25615,"6:10 - 9:00 PM, T",FOR,276,FOR 276,OFFCAM,001,Population Genetics,"Rodzen, J",3.0
+378,25854,TBA,FRE,390B,FRE 390B,TBA,001,Teaching French,"Simon, J",2.0
+379,26909,"9:00 - 1:00 PM, F",GEO,200DN,GEO 200DN,HUNT 166,001,Socio-Spatial Anal-Geog,4.0,
+380,26433,"1:40 - 3:00 PM, TR",GEL,028,GEL 028,EPHSCI 1316,001,Astrobiology,"Yin, Q",3.0
+381,26434,"3:10 - 4:00 PM, T",GEL,036,GEL 036,EPHSCI 1316,A01,Solar System,"Stewart-Mukhopadhyay, S",4.0
+382,26439,"4:10 - 7:00 PM, TR",GEL,050L,GEL 050L,EPHSCI 1348,001,Physical Geology Lab,"Pinter, N",2.0
+383,26442,TBA,GEL,053,GEL 053,TBA,001,Intro to Geobiology,"Sumner, D",3.0
+384,26548,TBA,GEL,101L,GEL 101L,TBA,001,Structural Geology Lab,"Oskin, M",2.0
+385,26551,"5:10 - 8:00 PM, MW",GEL,107L,GEL 107L,EPHSCI 1309,001,Paleobiology Lab,"Gold, D",2.0
+386,44269,"10:30 - 11:50 AM, TR",GER,048,GER 048,WELLMN 212,001,Germanic Myth & Saga,"Harjes, K",4.0
+387,26356,"5:10 - 6:00 PM, T",GDB,090,GDB 090,HUTCH 357,001,Intro Global Disease Bio,"Rizzo, D",1.0
+388,27388,"12:10 - 1:00 PM, R",GRK,002NT,GRK 002NT,OLSON 167,001,Elem Nt Greek,"Seal, C",1.0
+389,33208,TBA,MHI,289E,MHI 289E,TBA,001,Clinical Knowledge,"Shankar, P",3.0
+390,33209,TBA,MHI,289F,MHI 289F,TBA,001,Database Management,"Anderson, N",4.0
+391,27727,"9:00 - 9:50 AM, R",HIS,007B,HIS 007B,WRIGHT 220,A01,Latin America 1700-1900,"Perez Melendez, J",4.0
+392,27736,"11:00 - 11:50 AM, R",HIS,009C,HIS 009C,WELLMN 3,A01,Korean Culture & Society,"Kim, K",4.0
+393,27740,"12:10 - 1:00 PM, T",HIS,010C,HIS 010C,SOCSCI 70,A01,19th-20th Century World,"El Shakry, O",4.0
+394,27780,"11:00 - 11:50 AM, M",HIS,017A,HIS 017A,WELLMN 3,A01,History Of The U S,"Downs, G",4.0
+395,27793,"11:00 - 11:50 AM, MWF",HIS,017B,HIS 017B,GIEDT 1001,A01,History Of The U S,"Rauchway, E",4.0
+396,44612,"12:10 - 1:00 PM, T",HIS,018B,HIS 018B,OLSON 144,A01,Race in US Since 1865,"Leroy, J",4.0
+397,27812,"10:00 - 10:50 AM, MWF",HIS,072A,HIS 072A,HUNT 100,A01,Women & Gender Amer-1865,"Gettelman, K",4.0
+398,27908,"9:00 - 11:50 AM, W",HIS,102D,HIS 102D,SOCSCI 4202,001,Mod Europe To 1815,"Stirling-Harris, A",5.0
+399,27909,"9:00 - 11:50 AM, M",HIS,102E,HIS 102E,SOCSCI 4202,001,Europe Since 1815,"Zientek, A",5.0
+400,44622,"9:00 - 11:50 AM, R",HIS,102M,HIS 102M,SOCSCI 4202,001,U S Since 1896,"Materson, L",5.0
+401,44623,"12:10 - 3:00 PM, T",HIS,102X,HIS 102X,SOCSCI 4202,001,Comparative History,"Kim, K",5.0
+402,44634,"2:10 - 3:00 PM, MWF",HIS,131B,HIS 131B,OLSON 147,001,Renaissance/Reformation,"Stirling-Harris, A",4.0
+403,44636,"12:10 - 1:30 PM, TR",HIS,142A,HIS 142A,SOCSCI 1100,001,History of the Holocaust,"Biale, D",4.0
+404,44639,"10:00 - 10:50 AM, MWF",HIS,166B,HIS 166B,WELLMN 230,001,Mex Hist Since 1848,"Resendez, A",4.0
+405,44640,"1:40 - 3:00 PM, TR",HIS,169B,HIS 169B,WELLMN 119,001,Mex-Amer History,"Oropeza, L",4.0
+406,28014,"1:10 - 2:00 PM, MWF",HIS,170A,HIS 170A,WELLMN 1,001,Colonial America,"Smolenski, J",4.0
+407,44641,"10:30 - 11:50 AM, TR",HIS,177B,HIS 177B,WALKER 1310,001,Black Hist In Amer,"Leroy, J",4.0
+408,28194,"3:10 - 6:00 PM, T",HIS,201I,HIS 201I,SOCSCI 4202,001,Latin Am Since 1810,"Walker, C",4.0
+409,28195,"3:10 - 6:00 PM, W",HIS,201J,HIS 201J,SOCSCI 4202,001,Amr Hist To 1787,"Smolenski, J",4.0
+410,28196,"3:10 - 6:00 PM, R",HIS,201M,HIS 201M,SOCSCI 2202,001,Middle East,"Tezcan, B",4.0
+411,28200,"3:10 - 6:00 PM, M",HIS,202H,HIS 202H,SOCSCI 4202,001,United States,"St John, R",4.0
+412,27574,"9:00 - 1:00 PM, M",HDE,220,HDE 220,REMOTE,001,Meth Growth & Devel,"Hernandez, M",4.0
+413,45188,"4:10 - 7:00 PM, W",HDE,234,HDE 234,OLSON 109,001,Child Learn & Thinking,"Chen, Z",3.0
+414,29760,TBA,IMM,202L,IMM 202L,TBA,001,Adv Imm Lab Rotations,"Soulika, A",5.0
+415,29444,"2:10 - 5:00 PM, R",IAD,203N,IAD 203N,BAINER 1060,001,Project Plan & Eval,"Crump, A",4.0
+416,29847,"11:00 - 11:50 AM, MTWRF",ITA,031,ITA 031,HUNT 110,001,Beg Italian for Spn Spkr,"Ardeni, V",5.0
+417,44455,"1:40 - 3:00 PM, TR",ITA,115D,ITA 115D,OLSON 167,001,Italian Lyric 16 C,"Delmolino, G",4.0
+418,45421,"10:00 - 11:50 AM, TR",JPN,159,JPN 159,WICKSN 1020,001,"""Other"" in Mod Jpn Lit","Mcdonald, T",4.0
+419,30047,"9:00 - 11:50 AM, T",LDA,070,LDA 070,HUNT 178,A01,Intro to Spacemaking,"Parker, C",4.0
+420,44717,"10:00 - 10:50 AM, MWF",LIN,103B,LIN 103B,WELLMN 126,A01,Linguistic Analysis II,The Staff,4.0
+421,33046,"9:00 - 9:50 AM, F",MGT,011A,MGT 011A,STORER 1344,A01,Elementary Accounting,"Thomas, D",4.0
+422,45647,"8:00 - 9:20 AM, MW",MGT,011B,MGT 011B,HUNT 100,C01,Elementary Accounting,"Zern, C",4.0
+423,45513,TBA,MGT,215,MGT 215,TBA,001,Business Law,"Harrington, E",3.0
+424,33107,TBA,MGT,224,MGT 224,TBA,001,Man People in Hi Per Org,"Hsu, G",3.0
+425,45487,TBA,MGT,265,MGT 265,TBA,001,Tech Finance & Valuation,"Yasuda, A",3.0
+426,45490,TBA,MGT,402A,MGT 402A,TBA,001,Markets & the Firm,"Saraniti, B",4.0
+427,45491,TBA,MGT,404,MGT 404,TBA,001,Marketing Management,"Findlay, D",4.0
+428,45492,TBA,MGT,406A,MGT 406A,TBA,001,Dec Ana: Spdsht Based,"Woodruff, D",2.0
+429,33153,TBA,MGT,407,MGT 407,TBA,001,Storytelling for Leaders,"Charnsupharindr, D",1.0
+430,33154,"TBA, U",MGT,412,MGT 412,TBA,001,International Marketing,"Peters, K",1.0
+431,33155,TBA,MGT,429,MGT 429,TBA,001,Detection & Prevention,"Briscoe, N",1.0
+432,33156,TBA,MGT,436,MGT 436,TBA,001,Intro to Derv Sec,"Maruster, S",1.0
+433,45493,TBA,MGT,468,MGT 468,TBA,001,Artic & Critic Thinking,"Kennedy, J",4.0
+434,33157,TBA,MGT,490,MGT 490,TBA,001,Topics in Business,"Saraniti, B",1.0
+435,33158,TBA,MGT,490B,MGT 490B,TBA,001,Topics in Gen Mgmt-Ext,"Lew, G",2.0
+436,33166,TBA,MGV,200BV,MGV 200BV,TBA,001,Managerial Accounting,"Yetman, R",4.0
+437,33167,"TBA, T",MGV,201AV,MGV 201AV,ONLINE,001,Indiv & Grp Dynamics,"Elsbach, K",4.0
+438,33172,TBA,MGV,201BV,MGV 201BV,TBA,001,Org Strategy & Structure,"Dokko, G",4.0
+439,33175,"TBA, R",MGV,202AV,MGV 202AV,ONLINE,001,Markets & The Firm,"Stango, V",4.0
+440,33180,TBA,MGV,203BV,MGV 203BV,TBA,001,Forecast & Manag Rsch Md,"Rangwala, M",4.0
+441,33181,TBA,MGV,204V,MGV 204V,TBA,001,Marketing Management,"Aravindakshan, A",4.0
+442,33183,TBA,MGV,205V,MGV 205V,TBA,001,Fin Theory & Policy,"Maruster, S",4.0
+443,45446,TBA,MGV,206V,MGV 206V,TBA,001,Decision Analytics,"Woodruff, D",4.0
+444,45437,TBA,MGV,224V,MGV 224V,TBA,001,Mng Pple Hi-Prfmnce Org,"Hsu, G",4.0
+445,45433,TBA,MGV,239V,MGV 239V,TBA,001,Digital Marketing,"Peters, K",4.0
+446,33185,"TBA, R",MGV,246V,MGV 246V,ONLINE,001,Negotiations in Orgs,"O'Rourke-Powell, E",4.0
+447,45435,TBA,MGV,251V,MGV 251V,TBA,001,Mgt of innovation,"Hargadon, A",4.0
+448,33186,TBA,MGV,252V,MGV 252V,TBA,001,Managing Ops,"Chen, R",4.0
+449,45440,TBA,MGV,254V,MGV 254V,TBA,001,Marketing Analytics,"Palazzolo, M",4.0
+450,45441,TBA,MGV,260V,MGV 260V,TBA,001,Corporate Finance,"Marquez, R",4.0
+451,45442,TBA,MGV,261V,MGV 261V,TBA,001,Investment Analysis,"Chen, J",4.0
+452,45443,TBA,MGV,264V,MGV 264V,TBA,001,Business Taxation,"Yetman, R",4.0
+453,45444,TBA,MGV,265V,MGV 265V,TBA,001,Tech Finance & Valuation,"Yasuda, A",4.0
+454,33188,TBA,MGV,268V,MGV 268V,TBA,001,Artic & Critic Thinking,"Kennedy, B",4.0
+455,33191,"TBA, T",MGV,400AV,MGV 400AV,ONLINE,001,Financial Accounting,"Yetman, M",4.0
+456,33195,"TBA, W",MGV,403AV,MGV 403AV,ONLINE,001,Data Analy for Managers,"Whiteman, H",4.0
+457,33198,"TBA, T",MGV,438V,MGV 438V,ONLINE,001,Quant Tool for Bus,"Aram, C",4.0
+458,33202,TBA,MGV,440V,MGV 440V,TBA,001,Intgd Management Project,"Cron, W",4.0
+459,45447,TBA,MGV,445V,MGV 445V,TBA,001,Product Management,"Virrey, J",4.0
+460,45449,TBA,MGV,469V,MGV 469V,TBA,001,Mach Learning with Pythn,"Yang, Y",4.0
+461,45450,TBA,MGV,475V,MGV 475V,TBA,001,R & SQL for Bus Analytic,"Rangwala, M",4.0
+462,45451,TBA,MGV,490A,MGV 490A,TBA,001,Topics in Mgmt,"Bhargava, H",2.0
+463,45500,TBA,MGB,400AY,MGB 400AY,TBA,001,Financial Accounting,"Virrey, J",4.0
+464,45501,TBA,MGB,402AY,MGB 402AY,TBA,001,Markets & the Firm,"Saraniti, B",4.0
+465,33010,TBA,MGB,440,MGB 440,TBA,001,Intgd Management Project,"Wilson, K",6.0
+466,45502,TBA,MGB,440S,MGB 440S,TBA,001,Inter Mgmt Sim,"Beckler, A",4.0
+467,45538,TBA,MGB,490V,MGB 490V,TBA,001,Topics in Gen Mgmt,"Wunderman, J",3.0
+468,45612,TBA,MGP,490BV,MGP 490BV,TBA,001,Topics in Management,"Flatt, S",2.0
+469,32628,"6:10 - 8:00 PM, W",MCN,264A,MCN 264A,WELLMN 103,001,Principles Adult Edu Sem,"Heinig, M",2.0
+470,32629,"8:10 - 9:00 PM, W",MCN,264B,MCN 264B,WELLMN 103,001,Mat Child Epidemiology,"Heinig, M",2.0
+471,30603,"10:00 - 10:50 AM, MWF",MAT,000D,MAT 000D,DUTTON 3216,001,Intermed Algebra,"Davis, C",0.0
+472,30605,"6:10 - 7:00 PM, MWF",MAT,016A,MAT 016A,GIEDT 1001,001,Short Calculus,"Varn, D",3.0
+473,30608,"10:00 - 10:50 AM, MWF",MAT,016B,MAT 016B,HARING 2205,001,Short Calculus,"Lee, Y",3.0
+474,30611,"9:00 - 9:50 AM, MWF",MAT,016C,MAT 016C,WELLMN 2,001,Short Calculus,"Temirgaliyeva, Z",3.0
+475,30648,"11:00 - 11:50 AM, MWF",MAT,017C,MAT 017C,KLEIBR 3,A01,Calculus for BioSci,"Dad-Del, A",4.0
+476,30660,"5:40 - 6:30 PM, MWF",MAT,021B,MAT 021B,OLSON 147,001,Calculus,"Alameda, A",4.0
+477,30694,"7:10 - 8:00 PM, R",MAT,021C,MAT 021C,H GYM 290,A01,Calculus,"Biello, J",4.0
+478,30708,"7:10 - 8:00 PM, R",MAT,021D,MAT 021D,HOAGLD 108,B01,Vector Analysis,"Waldron, A",4.0
+479,30717,"2:10 - 3:00 PM, MWF",MAT,022A,MAT 022A,TLC 1020,001,Linear Algebra,"Vazirani, M",3.0
+480,30719,"1:10 - 2:00 PM, R",MAT,022AL,MAT 022AL,MATSCI 2118,001,Linear Algebra Comp Lab,"Dad-Del, A",1.0
+481,45170,"10:00 - 10:50 AM, MWF",MAT,067,MAT 067,HOAGLD 168,001,Modern Linear Algebra,"Nachtergaele, B",4.0
+482,30761,"12:10 - 1:00 PM, MWF",MAT,119A,MAT 119A,WELLMN 212,001,Ordinary Diff Equations,"Lewis, T",4.0
+483,30768,"9:00 - 9:50 AM, MWF",MAT,127B,MAT 127B,OLSON 158,A01,Real Analysis,"Xia, Q",4.0
+484,30772,"11:00 - 11:50 AM, MWF",MAT,127C,MAT 127C,WELLMN 230,A01,Real Analysis,"Islambouli, G",4.0
+485,30776,"11:00 - 11:50 AM, MWF",MAT,135A,MAT 135A,HOAGLD 168,A01,Probability,"Morris, B",4.0
+486,45177,"9:00 - 9:50 AM, MWF",MAT,148,MAT 148,WALKER 1320,001,Discrete Mathematics,"Martin, D",4.0
+487,30791,"4:10 - 5:00 PM, MWF",MAT,168,MAT 168,WALKER 1320,001,Optimization,"Freund, R",4.0
+488,30871,"1:10 - 2:00 PM, MWF",MAT,205A,MAT 205A,BAINER 1134,001,Complex Analysis,"Kuperberg, G",4.0
+489,30872,TBA,MAT,207B,MAT 207B,TBA,001,Applied Mathematics,"Fannjiang, A",4.0
+490,45179,"3:10 - 4:00 PM, MWF",MAT,226B,MAT 226B,HART 1116,001,Matrix Computations,"Teran, J",4.0
+491,45182,"10:30 - 11:50 AM, TR",MAT,248B,MAT 248B,WRIGHT 220,001,Algebraic Geometry,"Mulase, M",4.0
+492,33581,"10:30 - 11:50 AM, TR",MMI,200D,MMI 200D,VALLEY 1010,001,Microbial Interactions,"Baumler, A",3.0
+493,44682,"12:10 - 1:30 PM, TR",MST,020A,MST 020A,PHYSIC 130,A01,Medieval Culture,"Syed, M",4.0
+494,33325,"9:00 - 11:50 AM, T",MIC,103L,MIC 103L,SCILAB 2079,A01,Intro Microbiology Lab,"Mann, E",2.0
+495,33343,"1:10 - 4:00 PM, TR",MIC,105L,MIC 105L,SCILAB 2090,A01,Microbial Diversity Lab,"Parales, R",3.0
+496,33221,TBA,MIB,201L,MIB 201L,TBA,001,Adv Micro Lab Rotation,"Gelli, A",5.0
+497,33678,"3:10 - 6:00 PM, W",MSA,182B,MSA 182B,OLSON 207,001,India/SouthAsia Seminar,"Singh, K",4.0
+498,33701,"3:10 - 5:00 PM, W",MSC,014B,MSC 014B,H GYM 123,001,Intro to Mil Skills,"Yashinski, S",0.5
+499,33704,"3:10 - 5:00 PM, W",MSC,024B,MSC 024B,TBA,001,Indiv Leader Skills,"Rolls, N",0.5
+500,33709,"3:10 - 5:00 PM, W",MSC,144B,MSC 144B,TBA,001,Mil Training Skills,"Aquino, A",0.5
+501,31206,"1:10 - 2:00 PM, MW",MCB,160L,MCB 160L,HARING 2016,001,Genetics Lab,"Ori-Mckenney, K",5.0
+502,32115,"12:10 - 1:00 PM, F",MCB,259,MCB 259,OLSON 144,001,Develop Biology Lit,"Lott, S",1.0
+503,32633,TBA,MCP,210L,MCP 210L,TBA,001,Physio Lab Rotations,"Dickson,Dickson",5.0
+504,32634,"10:00 - 12:00 PM, F",MCP,261B,MCP 261B,TUPPER 2433,001,Topics in Vision,"Burns, M",2.0
+505,33752,"9:00 - 9:50 AM, W",MUS,003B,MUS 003B,MUSIC 115,A01,Intro Music Theory 2,"Strawbridge, A",4.0
+506,33754,"12:10 - 1:00 PM, MWF",MUS,006B,MUS 006B,MUSIC 115,001,Elementary Theory,"Nichols, S",3.0
+507,44447,TBA,MUS,024A,MUS 024A,TBA,001,MH1: Baroque & Classic,"Polzonetti, P",4.0
+508,44461,"9:00 - 9:50 AM, MW",MUS,108A,MUS 108A,MUSIC 203,001,Orchestration,"Hofman, M",2.0
+509,44462,"1:10 - 2:30 PM, TR",MUS,124D,MUS 124D,MUSIC 203,001,Music History 4,"Plack, R",4.0
+510,45645,"12:10 - 3:00 PM, W",MUS,210C,MUS 210C,MUSIC 230,001,Prosem Ethnomusicology,"Diaz, J",4.0
+511,45196,"3:10 - 5:00 PM, M",NAS,005A,NAS 005A,HART 1106,003,Writer's Workshop,2.0,
+512,34401,"9:00 - 11:50 AM, T",NPB,121L,NPB 121L,ASTF,001,Phys Reprod Lab,"Berger, T",1.0
+513,45310,"10:00 - 11:50 AM, R",NPB,169,NPB 169,HART 1120,001,Frontiers in Neurobiol,"Tripp, B",3.0
+514,34554,TBA,NPB,271B,NPB 271B,TBA,001,Memory & Plasticity II,"Wiltgen, B",2.0
+515,34555,"TBA, W",NPB,285,NPB 285,TBA,001,Lit Vis Neuroscience,"Britten, K",2.0
+516,34556,"9:00 - 10:50 AM, R",NPB,287B,NPB 287B,H GYM 290,001,Topics Neurosci Theory,"Goldman, M",2.0
+517,45317,TBA,NRS,243A,NRS 243A,TBA,001,Leadership,"Singh, C",2.0
+518,44388,TBA,NRS,302,NRS 302,TBA,001,Emerging Technologies,"Nichols, A",4.0
+519,34681,TBA,NRS,307,NRS 307,TBA,001,Family Centered Comm,"Spero, H",4.0
+520,35017,TBA,NUT,111AY,NUT 111AY,TBA,001,Intro Nut & Metabolism,"Mackenzie, G",3.0
+521,35023,"10:00 - 10:50 AM, MWF",NUT,116B,NUT 116B,GIEDT 1003,001,Clinical Nutrition,"Zivkovic, A",3.0
+522,35024,"11:00 - 11:50 AM, F",NUT,116BL,NUT 116BL,GROVE 1309,001,Nutrition Practicum,"Chondronikola, M",3.0
+523,35027,"2:10 - 4:00 PM, MW",NUT,118,NUT 118,TLC 1010,001,Community Nutrition,"Au,Prado",4.0
+524,36431,"12:10 - 3:00 PM, W",PFS,265A,PFS 265A,CRUESS,001,Modes of Production,"Lemieux, P",4.0
+525,45688,"1:10 - 4:00 PM, T",PFS,265D,PFS 265D,ARTANX,001,Theory/history/criticism,"Wyman, J",4.0
+526,36526,TBA,PFS,459,PFS 459,TBA,001,Approach to Thtr & Dance,The Staff,4.0
+527,36720,"9:00 - 10:20 AM, TR",PHI,013,PHI 013,YOUNG 198,001,"Minds, Brains, Computers","Dorsey, J",3.0
+528,36721,"6:10 - 7:00 PM, M",PHI,013G,PHI 013G,HART 1120,A01,Minds Brains Comp w/Disc,"Dorsey, J",4.0
+529,36741,"9:00 - 9:50 AM, MWF",PHI,038,PHI 038,WELLMN 26,A01,Intro Philosophy of Biol,"Miller, S",4.0
+530,44848,"9:00 - 10:20 AM, TR",PHI,123,PHI 123,PHYSIC 140,001,Aesthetics,"Harris, T",4.0
+531,44849,"3:10 - 4:30 PM, TR",PHI,189I,PHI 189I,GIEDT 1006,001,Topics Phil of Science,"Glick, D",4.0
+532,37001,"7:30 - 8:50 AM, M",PHY,007A,PHY 007A,RESSLR 66,A01,General Physics,"Guthrie,Mitchell",4.0
+533,37089,"7:30 - 8:50 AM, F",PHY,007C,PHY 007C,RESSLR 66,A01,General Physics,"Arrais Nobre,Mitchell",4.0
+534,45153,"5:10 - 6:00 PM, W",PHY,009A,PHY 009A,BAINER 1060,A01,Classical Physics,"Nourbakhsh, E",5.0
+535,37111,"10:30 - 11:50 AM, TR",PHY,009B,PHY 009B,RESSLR 66,A01,Classical Physics,"Weideman, T",5.0
+536,37150,"10:30 - 11:50 AM, TR",PHY,009HB,PHY 009HB,RESSLR 166,A01,Honors Physics,"Rangamani, M",5.0
+537,37212,"11:00 - 11:50 AM, MW",PHY,080,PHY 080,OLSON 101,A01,Experimental Techniques,"Jones, T",4.0
+538,44653,"9:00 - 10:20 AM, TR",PHY,233,PHY 233,PHYSIC 414,001,Tpcs Geometry & Physics,"Hubeny, V",3.0
+539,37641,"2:40 - 4:00 PM, TR",PHY,245B,PHY 245B,PHYSIC 414,001,High Energy Physics,"Cheng, H",3.0
+540,44654,"10:30 - 11:50 AM, TR",PHY,246A,PHY 246A,PHYSIC 414,001,Supersymmetry,"Terning, J",3.0
+541,37644,"2:10 - 3:30 PM, MW",PHY,252C,PHY 252C,PHYSIC 285,001,Data Analys Particle Phy,"Conway, J",3.0
+542,37646,"12:10 - 1:30 PM, TR",PHY,256A,PHY 256A,PHYSIC 185,001,Physics of Information,"Crutchfield, J",4.0
+543,37648,"9:00 - 10:20 AM, WF",PHY,262,PHY 262,PHYSIC 414,001,Early Universe Cosmology,"Kaloper, N",3.0
+544,37829,"1:10 - 2:00 PM, T",PHY,371,PHY 371,OLSON 117,001,Tchng Activ-Enggmnt D/Ls,"Zhabinskaya, D",1.0
+545,37992,"2:10 - 3:00 PM, T",PLB,112D,PLB 112D,BAINER 1134,001,Plant Growth & Devel Dis,"Harada, J",1.0
+546,45369,TBA,PLS,006V,PLS 006V,REMOTE,001,Flower Power,"Lieth, J",2.0
+547,38364,"11:00 - 11:50 AM, R",PLS,007V,PLS 007V,ONLINE,A01,Just Coffee,"Brown,Crump",4.0
+548,38397,TBA,PLS,021V,PLS 021V,TBA,A01,Computers in Technology,"Bailey,Sellu",3.0
+549,38610,"9:00 - 11:50 AM, R",PLS,100BL,PLS 100BL,BOWLEY 109,001,Plant Growth & Yield Lab,"Blanco-Ulate, B",2.0
+550,38621,"10:00 - 11:50 AM, MW",PLS,163,PLS 163,HOAGLD 108,001,Ecosystem&Landscape Eco,"Cadenasso,Eviner",4.0
+551,44881,"4:10 - 5:20 PM, MW",POL,012A,POL 012A,WELLMN 26,001,Politics & Sports,"Scheiner, E",4.0
+552,44902,"1:10 - 2:00 PM, W",POL,144A,POL 144A,KERR 451,A01,East European Politics,"Andrews, J",4.0
+553,44908,TBA,POL,165V,POL 165V,TBA,001,Mass Media & Politics,"Boydstun, A",4.0
+554,44909,"12:10 - 1:30 PM, TR",POL,166,POL 166,WELLMN 26,001,Women In Politics,"Bernhard, R",4.0
+555,39898,TBA,POL,290D,POL 290D,NOFAC,001,Res Jud Poli,"Shanske, D",4.0
+556,44913,"3:10 - 6:00 PM, M",POL,290G,POL 290G,KERR 593,001,Research in Pol Methods,"Hosek, A",4.0
+557,40051,"3:10 - 4:30 PM, TR",PSC,041,PSC 041,KLEIBR 3,001,Research Meth in Psych,"Cross, V",4.0
+558,45160,"9:00 - 9:50 AM, M",PSC,100Y,PSC 100Y,HOAGLD 108,A01,Cognitive Psychology,"Antzoulatos, E",4.0
+559,44916,"4:10 - 5:30 PM, TR",PUN,002V,PUN 002V,TBA,001,Elementary Punjabi,"Singh, K",5.0
+560,41067,"5:10 - 6:00 PM, W",RST,001F,RST 001F,BAINER 1134,A01,Religion Today,"Miller, W",4.0
+561,41071,"4:10 - 5:30 PM, MW",RST,001G,RST 001G,WELLMN 106,A01,Myth Ritual Symbol,"Brizendine, R",4.0
+562,44484,"11:30 - 11:50 AM, MW",RST,141B,RST 141B,OLSON 105,001,New Test Lit: John,"Terry, W",4.0
+563,44685,"5:10 - 6:00 PM, TR",SAS,025,SAS 025,WELLMN 216,A01,Global Climate Change,"Bloom, A",4.0
+564,41308,"3:10 - 4:00 PM, T",SAS,025V,SAS 025V,ONLINE,A01,Global Climate Change,"Bloom, A",4.0
+565,45349,"3:40 - 6:00 PM, TR",SAS,070A,SAS 070A,REMOTE TBA,001,Genetic Engin Med Ag Law,"Harada, J",5.0
+566,45037,"5:10 - 6:00 PM, W",SOC,046,SOC 046,PHYSIC 130,A01,Intro Social Resrch Meth,"Ozdemir, C",4.0
+567,45048,"9:00 - 9:50 AM, F",SOC,056,SOC 056,REMOTE,A01,Intro to Social Stats,"Hibel, J",5.0
+568,41673,"9:00 - 10:20 AM, TR",SPA,002Y,SPA 002Y,OLSON 267,001,Elementary Spanish,"Sanchez-Gutierrez, C",5.0
+569,41693,TBA,SPA,032,SPA 032,TBA,001,Span-Native Speakers II,"Carando, A",5.0
+570,41712,TBA,SPA,111N,SPA 111N,REMOTE,001,Sounds & Words,"Bradley, T",3.0
+571,44282,"4:10 - 7:00 PM, R",SPA,257,SPA 257,OLSON 144,001,Spanish Lit: Drama,"Jones, N",4.0
+572,44281,"4:10 - 7:00 PM, M",SPA,279,SPA 279,WELLMN 3,001,Mexican Narrative,"Vazquez Enriquez, E",4.0
+573,42582,"9:00 - 9:50 AM, T",STA,141A,STA 141A,WELLMN 1,A01,Statistical Data Science,"Chen, S",4.0
+574,42586,"9:00 - 10:20 AM, TR",STA,141C,STA 141C,YOUNG 194,A01,Adv Stat Computing,"Ning, B",4.0
+575,45584,"1:10 - 4:00 PM, W",REL,231E,REL 231E,CHSL 109,001,Hist/Thry/Crit Hum Right,"Watenpaugh, K",4.0
+576,43082,"4:10 - 6:00 PM, MW",UWP,007M,UWP 007M,STORER 347,001,Multilingual Writing,"Lester, S",4.0
+577,43090,"10:00 - 11:50 AM, T",UWP,007Y,UWP 007Y,STORER 347,001,Reading & Writing,The Staff,4.0
+578,43261,"3:10 - 4:30 PM, T",UWP,101Y,UWP 101Y,OLSON 241,001,Advanced Composition,"Ross, A",4.0
+579,43278,TBA,UWP,102C,UWP 102C,REMASY,001,Writing in History,"Azevedo, J",4.0
+580,43285,"9:00 - 10:20 AM, MW",UWP,102H,UWP 102H,OLSON 21,001,Writ in HumDev and Psych,"Foss, E",4.0
+581,43288,"6:10 - 9:00 PM, T",UWP,102J,UWP 102J,SHLDS 90B,001,Writing in the Fine Arts,"Miller, G",4.0
+582,45540,"3:10 - 4:30 PM, TR",UWP,102K,UWP 102K,OLSON 247,001,Writing in Sociology,"Hemstrom, C",4.0
+583,43289,"12:10 - 1:30 PM, MW",UWP,102L,UWP 102L,SHLDS 90B,001,Writing in Film Studies,"Horton, J",4.0
+584,43290,"9:00 - 10:20 AM, MW",UWP,104A,UWP 104A,SHLDS 90B,001,Business Writing,The Staff,4.0
+585,43313,"6:10 - 9:00 PM, W",UWP,104C,UWP 104C,SHLDS 90B,001,Journalism,"Abramsky, S",4.0
+586,43317,"12:10 - 1:30 PM, MW",UWP,104D,UWP 104D,OLSON 21,001,Writing in Education,"Arosteguy, K",4.0
+587,43322,"10:30 - 11:50 AM, MW",UWP,104E,UWP 104E,OLSON 241,001,Writing in Science,"Williams, N",4.0
+588,43328,"4:40 - 6:00 PM, TR",UWP,104F,UWP 104F,OLSON 241,002,Writing in Health Prof,"Hemstrom, C",4.0
+589,45041,TBA,UWP,104FY,UWP 104FY,REMASY,001,Writing in Health Prof,"Sententia, W",4.0
+590,43335,"4:40 - 6:00 PM, MW",UWP,104J,UWP 104J,OLSON 1,001,Writing Social Justice,"Abramsky, S",4.0
+591,43336,"12:10 - 1:30 PM, TR",UWP,104T,UWP 104T,OLSON 27,001,Technical Writing,"Gubala, C",4.0
+592,45523,"6:10 - 9:00 PM, W",UWP,111B,UWP 111B,SHLDS 90A,001,Investigative Journalism,"Magagnini, S",4.0
+593,43343,"10:30 - 11:50 AM, MW",UWP,112A,UWP 112A,SHLDS 90B,001,Intro to Prof Editing,"Masiel, D",4.0
+594,43588,"6:40 - 7:00 PM, TR",UWP,391,UWP 391,YOUNG 184,001,Oral English-ESL,"Lane, J",4.0
+595,43625,TBA,VEN,126L,VEN 126L,TBA,002,Wine Stability Lab,"Runnebaum, R",2.0
+596,43627,"2:10 - 5:00 PM, TR",VEN,128L,VEN 128L,TBA,A01,Wine Microbiology Lab,"Montpetit, B",2.0
+597,43822,"3:10 - 4:30 PM, TR",VME,158,VME 158,WELLMN 2,001,Disease Ecology,"Foley, J",3.0
+598,43788,"10:00 - 12:00 PM, M",VMB,253,VMB 253,OLSON 159,001,Toxicant/Drug Metabolism,"Yu, A",2.0
+599,43789,"2:10 - 3:00 PM, MWF",VMB,254,VMB 254,VALLEY 1010,001,Tox Respiratory Sys,"Pinkerton, K",3.0
+600,39631,"12:10 - 1:30 PM, TR",PMI,129Y,PMI 129Y,GIEDT 1002,001,One Health Fundamentals,"Keel,Shapiro",3.0
+601,43929,"3:10 - 6:00 PM, WF",WFC,134L,WFC 134L,ACADSR 1371,001,Herpetology Laboratory,"Todd, B",3.0
+602,44107,"2:10 - 3:00 PM, MWF",WLD,912,WLD 912,OLSON 106,004,Wkload - Math Co 16B,"Acosta, G",0.0
+603,44120,"1:10 - 2:00 PM, MW",WLD,951,WLD 951,OLSON 101,003,Wkload-Chemistry Co 2A,0,

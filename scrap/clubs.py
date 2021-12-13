@@ -9,6 +9,7 @@ driver.get("https://registrar-apps.ucdavis.edu/courses/search/index.cfm")
 select = Select(driver.find_element_by_name("subject"))
 
 final = []
+consent = []
 options = select.options
 for x in options:
     val = x.get_attribute("value")
@@ -52,11 +53,17 @@ for x in options:
             y+= 1
             if c:
                 print(c)
-                final.append(c)
+                if "@" in c['crn']:
+                    consent.append(c)
+                else:
+                    final.append(c)
     except:
         print('no table')
 
 df = pd.DataFrame(final)
 print(df)
-df.to_csv('cs.csv')
+df.to_csv('classes_without_consent.csv')
         
+df2 = pd.DataFrame(consent)
+print(df2)
+df2.to_csv('consent_classes.csv')

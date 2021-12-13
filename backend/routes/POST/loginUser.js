@@ -3,20 +3,20 @@ const pool = require("../db");
 var router = express.Router();
 
 /* GET home page. */
-function User(first_name, last_name, name, email, image_url) {
-  this.first_name = first_name;
-  this.last_name = last_name;
+function User(firstName, lastName, name, email, imageUrl) {
+  this.first_name = firstName;
+  this.last_name = lastName;
   this.name = name;
   this.email = email;
-  this.image_url = image_url;
+  this.image_url = imageUrl;
 }
 router.post("/", async (req, res, next) => {
   const user = new User(
-    req.body.first_name,
-    req.body.last_name,
+    req.body.firstName,
+    req.body.lastName,
     req.body.name,
     req.body.email,
-    req.body.image_url
+    req.body.imageUrl
   );
   var already_user = false;
   pool.connect((err, client, release) => {
@@ -40,13 +40,13 @@ router.post("/", async (req, res, next) => {
     );
     if (already_user) {
       client.query(
-        "INSERT INTO users (first_name, last_name, email, full_name, image_url) VALUES ($1, $2, $3, $4, $5)",
+        "INSERT INTO users (firstName, lastName, email, fullName, imageUrl) VALUES ($1, $2, $3, $4, $5)",
         [
-          user.first_name,
-          user.last_name,
+          user.firstName,
+          user.lastName,
           user.email,
           user.name,
-          user.image_url,
+          user.imageUrl,
         ],
         (err, result) => {
           release();
