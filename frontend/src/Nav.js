@@ -16,18 +16,13 @@ import MailIcon from "@mui/icons-material/Mail";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import MoreIcon from "@mui/icons-material/MoreVert";
 import { GoogleLogin, GoogleLogout } from "react-google-login";
+import Avatar from "@mui/material/Avatar";
+import { Link } from "react-router-dom";
+import "./utils/Link.css"
 
 const logout = () => {
   console.log("logout"); // eslint-disable-line
 };
-const error = (response) => {
-  console.error(response); // eslint-disable-line
-};
-const success = (response) => {
-  console.log(response); // eslint-disable-line
-};
-const clientId =
-  "615520021367-sjvmtmuujlf91gicag6u1kr4b4mu76bq.apps.googleusercontent.com";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -69,7 +64,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   },
 }));
 
-export default function Nav({ setIsLoggedIn, profile }) {
+export default function Nav({ setIsLoggedIn, tokenObj }) {
   const [anchorEl, setAnchorEl] = React.useState(null);
   const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = React.useState(null);
 
@@ -110,8 +105,8 @@ export default function Nav({ setIsLoggedIn, profile }) {
       open={isMenuOpen}
       onClose={handleMenuClose}
     >
-      <MenuItem onClick={handleMenuClose}>Profile</MenuItem>
-      <MenuItem onClick={handleMenuClose}>My account</MenuItem>
+      <MenuItem onClick={handleMenuClose}><Link className="link" to="/">Profile</Link></MenuItem>
+      <MenuItem onClick={handleMenuClose}><Link className="link" to="/account">Account</Link></MenuItem>
       <MenuItem onClick={handleMenuClose}>
         <GoogleLogout
           onLogoutSuccess={(res) => {
@@ -206,7 +201,7 @@ export default function Nav({ setIsLoggedIn, profile }) {
             component="div"
             sx={{ display: { xs: "none", sm: "block" } }}
           >
-            Campus Buddy
+            <Link to="/" style={{ textDecoration: 'none', color:'white' }}>Campus Buddy</Link>
           </Typography>
           <Search>
             <SearchIconWrapper>
@@ -246,7 +241,7 @@ export default function Nav({ setIsLoggedIn, profile }) {
               onClick={handleProfileMenuOpen}
               color="inherit"
             >
-              {/* <Avatar alt="" src=""/> */}
+              <Avatar alt={tokenObj.name} src={tokenObj.imageUrl} />
             </IconButton>
           </Box>
           <Box sx={{ display: { xs: "flex", md: "none" } }}>

@@ -1,25 +1,22 @@
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Navbar from "./Navbar";
 import About from "./About";
+import Account from "./Account";
 import FrontPage from "./FrontPage";
 import Nav from "./Nav";
 import Home from "./Home";
 import "./App.css";
-import { GoogleLogin, GoogleLogout } from "react-google-login";
+import { GoogleLogin } from "react-google-login";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [profile, setProfile] = useState({});
-  const logout = () => {
-    console.log("logout"); // eslint-disable-line
-  };
+  const [tokenObj, setTokenObj] = useState({});
   const error = (response) => {
-    console.error(response); // eslint-disable-line
-    setProfile(response.profileObj);
+    console.error(response.profileObj); // eslint-disable-line
   };
   const success = (response) => {
     console.log(response); // eslint-disable-line
+    setTokenObj(response.profileObj);
   };
   const clientId =
     "615520021367-sjvmtmuujlf91gicag6u1kr4b4mu76bq.apps.googleusercontent.com";
@@ -28,11 +25,7 @@ function App() {
     <Router>
       <div className="App">
         {isLoggedIn ? (
-          <Nav
-            isLoggedIn={isLoggedIn}
-            setIsLoggedIn={setIsLoggedIn}
-            profile={profile}
-          />
+          <Nav setIsLoggedIn={setIsLoggedIn} tokenObj={tokenObj} />
         ) : (
           <GoogleLogin
             onSuccess={(res) => {
@@ -50,6 +43,11 @@ function App() {
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/about" element={<About />} />
+            <Route
+              exact
+              path="/account"
+              element={<Account tokenObj={tokenObj} />}
+            />
           </Routes>
           <br />
         </div>

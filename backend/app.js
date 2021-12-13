@@ -5,10 +5,9 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const fileupload = require('express-fileupload')
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
-var loginRouter = require('./routes/loginUser')
-var logoutRouter = require('./routes/logoutUser')
+var userRouter = require('./routes/PUT/user');
+var loginRouter = require('./routes/POST/loginUser')
+var logoutRouter = require('./routes/PUT/logoutUser')
 
 var app = express();
 
@@ -23,8 +22,8 @@ app.use(cookieParser());
 app.use(fileupload());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
+// app.use('/', indexRouter);
+app.use('/user', userRouter);
 app.use('/loginUser', loginRouter);
 app.use('/logoutUser', logoutRouter);
 
