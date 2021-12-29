@@ -1,0 +1,45 @@
+.spacing {
+  margin: 10px;
+  text-align: left;
+}
+.classNameSidebar {
+  text-decoration: underline;
+  font-size: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+.sidebarLinks {
+  border: none;
+  margin: 0;
+  padding: 0;
+  background: none;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.classPage {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 1000px;
+}
+div#left {
+  flex: 0 0 200px; /* flex-grow, flex-shrink, flex-basis */
+  background-color: grey;
+}
+div#right {
+  flex: 1; /* fg:1, fs:1, fb:0 */
+}
+.block {
+  display: block;
+}
+.none {
+  display: none;
+}
+.classNav{
+    display: flex;
+    flex-direction: row;
+}

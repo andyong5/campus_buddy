@@ -2,7 +2,8 @@ import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import About from "./About";
 import Account from "./Account";
-import FrontPage from "./FrontPage";
+import Classes from "./Classes/Classes";
+import Class from "./Classes/Class"
 import Nav from "./Nav";
 import Home from "./Home";
 import "./App.css";
@@ -14,6 +15,13 @@ function App() {
   const error = (response) => {
     console.error(response.profileObj); // eslint-disable-line
   };
+
+  useEffect(() => {
+    if (tokenObj) {
+      setIsLoggedIn(true);
+    }
+  });
+
   const success = (response) => {
     console.log(response); // eslint-disable-line
     setTokenObj(response.profileObj);
@@ -43,6 +51,8 @@ function App() {
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/about" element={<About />} />
+            <Route exact path="/classes" element={<Classes />} />
+            <Route exact path="/class" element={<Class />} />
             <Route
               exact
               path="/account"
